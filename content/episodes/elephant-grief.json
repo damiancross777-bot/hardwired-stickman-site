@@ -6,19 +6,19 @@
   "updated_at": "TODO -- fill in before publish -- ISO datetime",
   "category": "Animal Behaviour",
   "summary": "The Amboseli Elephant Research Project, founded by Cynthia Moss, and a controlled study by Karen McComb reveal how African elephants recognize the skulls and ivory of their own species, a landmark case in animal behavior and cognition.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "A controlled 2006 study by Karen McComb, Lucy Baker, and Cynthia Moss found that wild elephants show significantly more interest in elephant skulls and ivory than in the remains of other animals or plain wood -- a species-wide recognition of elephant death, not a targeted grief for one specific individual. Elephants investigate skulls by running their trunks along the jaw and tusks, the same features they use to identify living elephants, and separate research shows losing an experienced matriarch carries a measurable, lasting cost to the family's survival knowledge -- a plausible reason a species would evolve to pay close attention to exactly who is gone.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT16M0S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "The way elephants physically investigate a skull adds another layer to this.",
-    "A separate, well-documented case adds real texture to what this looks like in the wild.",
-    "There's a reason a system like this might be worth having in the first place, and it comes from a separate strand of Moss's research.",
-    "Losing an individual like that isn't a minor loss to an elephant family.",
-    "Seen against that backdrop, stopping to investigate a set of remains — checking, specifically, whether this was an elephant, whether it might have been someone who mattered — starts to look less like idle curiosity and more like exactly the kind of information an elephant family has every practical reason to track carefully."
+    "A controlled 2006 study found wild elephants show significantly more interest in elephant skulls and ivory than the remains of other animals or plain wood -- a species-specific pull, not general curiosity.",
+    "Elephants investigate skulls by running their trunk tips along the jaw and tusks -- the same individually distinctive features they touch during ordinary greetings between living elephants.",
+    "In a well-documented case, unrelated elephant family groups altered their path to approach a dying matriarch named Eleanor, investigating and staying nearby before eventually moving on.",
+    "A family's ability to correctly judge a genuine predator threat depends heavily on the age and experience of its matriarch -- a measurable reason losing an experienced individual carries a real survival cost.",
+    "Populations that lost most of their older females to historical poaching showed measurably lower reproduction and elevated stress hormones for years afterward, even with plenty of younger females still present."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## A detour with nothing to gain\n\nA herd of elephants is moving toward water, on a path they've walked a thousand times. Partway there, without any obvious signal, they stop, turn, and walk toward a scatter of bones that has nothing to do with where they were headed. In some documented cases, it's not even the herd that lost someone here -- a completely unrelated family, elephants who never knew whoever these bones used to be. They touch the skull with their trunks, carefully, along the jaw and tusks, then eventually move on.\n\n## Why would this be worth an elephant's time?\n\nThere's nothing to gain here -- no food, no water, no mates, no threat. Every minute spent standing over a skull is a minute not spent on anything that conventionally improves survival. And yet it happens often enough, across different families and individuals, that researchers who've spent decades in the field started asking what, specifically, draws them there.\n\n## Fifty years of watching the same families\n\nCynthia Moss founded the Amboseli Elephant Research Project in Kenya in 1972, and it's still running today -- more than fifty years of continuous observation of the same elephant families across generations. That timescale is what eventually made a real experiment possible.\n\nIn 2006, researchers Karen McComb, Lucy Baker, and Moss herself laid out different objects in front of wild elephants under controlled conditions: elephant skulls, the skulls of other large animals, elephant ivory, and plain pieces of wood matched for size. Elephants showed significantly more interest in elephant skulls and ivory than in any of the other objects. Not bones in general -- elephant remains, specifically.\n\n## What the investigation actually looks like\n\nField researchers have repeatedly described the same behavior: elephants running their trunk tips along the lower jaw, the tusks, the teeth -- precisely the features most individually distinctive on a living elephant, and the same parts elephants touch on each other during ordinary greetings. It looks less like random curiosity and more like an identification check.\n\nA well-documented case adds real texture. In the mid-2000s, researchers tracked the death of an Amboseli matriarch named Eleanor. As she lay dying, and after she died, multiple unrelated elephant family groups altered their path to approach her, investigate her, and in some cases stay nearby before eventually moving on. Separately, researcher Joyce Poole has documented elephants carrying dying or dead calves for long distances -- in one case, roughly 1,500 feet into a secluded grove of palms. Elephants have never been observed carrying a healthy calf that way.\n\n## Why a system like this might exist\n\nIn 2001, researchers tested how well elephant families could tell a dangerous lion from a harmless one, just from its roar. The answer depended almost entirely on the age of the herd's matriarch: families led by an older, more experienced matriarch reacted appropriately to a genuinely dangerous roar, bunching defensively and protecting calves, while families led by a younger matriarch often failed to react appropriately at all. The older matriarch carried decades of accumulated, irreplaceable knowledge the rest of the family relied on.\n\nLosing an individual like that isn't a minor loss. In 2008, researchers studying a Tanzanian elephant population that had lost most of its older females to heavy poaching found that even with plenty of prime-aged females still present, those groups showed measurably lower reproductive rates and elevated stress hormones for years afterward. The knowledge those older elephants carried didn't transfer -- it was simply gone. That's the same evolutionary logic sitting underneath the skull-investigation behavior: a species that has learned how expensive it is to lose the wrong individual has every reason to pay close attention to exactly who is gone.\n\n## What the evidence doesn't support\n\nThe controlled 2006 study found elephants are drawn to elephant remains as a category -- it did not find elevated interest in the remains of a specific deceased relative over an elephant they'd never known. The pull isn't measurably stronger for family. It's closer to a species-wide recognition of loss than a personal, individually-directed grief the way a human might visit one particular grave.\n\nIt's also worth addressing something repeated constantly and not well supported: reports of elephants appearing to \"cry\" near a body. The far more likely explanation is ordinary eye lubrication, not an emotional tear response -- the timing just happens to line up in a way that reads as meaningful. Good evidence for something remarkable doesn't need help from evidence that isn't actually there.",
   "sources": [
     {
       "title": "Amboseli Trust for Elephants. Dr Cynthia Moss -- Project history. (Moss formally established the Amboseli Elephant Research Project with Harvey Croze in Amboseli National Park, Kenya, in 1972; longest-running study of wild elephant behavior.)",
@@ -91,14 +91,14 @@
   "pinterest": {
     "board": "Animal Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Do Elephants Return to Where One of Them Died?",
+      "Elephants Investigate Skulls Like an ID Check",
+      "Losing One Elephant Can Cost a Whole Herd"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "A 50-year field study and a controlled 2006 experiment found elephants show measurably more interest in elephant skulls and ivory than anything else -- even strangers. An illustrated, research-backed explainer on elephant death recognition."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "Elephants will detour to investigate a skull -- running their trunks along the jaw and tusks, the same way they identify living elephants. A 2006 study proved it's elephant remains specifically that pull them in. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "elephants",
       "animalbehavior",
@@ -109,42 +109,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DO ELEPHANTS RETURN TO WHERE ONE OF THEM DIED?",
+        "body": "A herd will stop and detour toward bones that have nothing to do with their path."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "Just curiosity about something unfamiliar. The evidence says otherwise."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "A CONTROLLED TEST",
+        "body": "A 2006 study found elephants are drawn specifically to elephant skulls and ivory -- not other bones, not wood."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "IT LOOKS LIKE AN ID CHECK",
+        "body": "They run their trunks along the jaw and tusks -- the same features used to identify living elephants."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "EVEN COMPLETE STRANGERS STOP",
+        "body": "Unrelated elephant families have been seen detouring to investigate a dying matriarch they never knew."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "LOSING THE WRONG ELEPHANT HAS A REAL COST",
+        "body": "Populations that lost experienced matriarchs to poaching showed lower reproduction for years afterward."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "Elephants will detour to investigate the bones of a stranger -- and a 2006 study explains why.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman herd stopping mid-walk to approach a skull.",
+      "Reveal a controlled study found they're specifically drawn to elephant remains.",
+      "Explain the trunk investigation mirrors how elephants identify each other alive.",
+      "Close on why: losing an experienced elephant carries a real, measurable cost."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },

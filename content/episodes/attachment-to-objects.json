@@ -6,17 +6,19 @@
   "updated_at": "TODO -- fill in before publish -- ISO datetime",
   "category": "Human Behaviour",
   "summary": "Psychoanalyst Donald Winnicott's transitional object theory explains why infants fixate on one specific blanket or teddy bear, and how developmental psychology and Richard Passman's security blanket experiments tested it.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "Psychoanalyst Donald Winnicott coined the term 'transitional object' in 1951 to describe why infants between four and twelve months often fixate on one specific blanket or toy -- his theory holds that the object sits on the exact boundary where an infant starts sensing itself as separate from its mother, functioning as a stable, controllable stand-in for a world it's just realizing it can't fully control. A 1975 controlled experiment later confirmed this functionally: toddlers with their own security blanket present explored an unfamiliar room and stayed as calm as toddlers whose actual mother was in the room with them.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT15M45S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "Winnicott traced the origin of this even further back, to the infant's very first experience of the mother's breast.",
-    "There's a small, very concrete detail from Winnicott's clinical observations that captures how seriously this functions.",
-    "And it's worth being precise about what Winnicott himself said mattered here, because it's easy to get this backwards."
+    "Psychoanalyst Donald Winnicott coined 'transitional object' in 1951, noticing infants aged four to twelve months often fixate on one specific blanket or soft toy above all others.",
+    "Winnicott traced the pattern back to the infant's earliest experience of the mother's breast -- a 'moment of illusion' of control that the transitional object later continues on the infant's own terms.",
+    "Winnicott himself clarified his real interest was 'not so much the object used as the use of the object' -- the function it serves, not the object itself.",
+    "A 1975 controlled experiment found toddlers with their own security blanket present explored an unfamiliar room and stayed as calm as toddlers whose actual mother was in the room -- functionally standing in for the parent.",
+    "Winnicott never claimed the object is necessary for healthy development -- plenty of children never fixate on one and grow up securely attached regardless."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## The blanket that couldn't be replaced\n\nSomewhere in your own past there's probably a version of this: a specific blanket, a specific stuffed animal, worn thin in one particular spot. Not any blanket -- that one. If it went missing for even a night, it felt like an emergency, not a lost toy. It couldn't feed you, couldn't protect you, had no idea you existed. For a stretch of your early life, it may have mattered more than almost anything else.\n\n## Why would a developing brain do this?\n\nAn infant's brain does enormously important work bonding with the actual people who keep it alive. So why would that same brain also pour real emotional weight into something that can't respond at all -- no face to read, no voice to recognize, nothing resembling the mechanisms built for bonding with a person? And yet the attachment that forms is often just as fierce and just as specific.\n\n## Winnicott's transitional object\n\nIn 1951, psychoanalyst Donald Winnicott presented an idea to the British Psycho-Analytical Society, published two years later as \"Transitional Objects and Transitional Phenomena.\" Watching infants in his clinical practice, he noticed a consistent pattern: somewhere between four and twelve months old, many infants fix on one particular object -- a blanket, a piece of cloth, eventually a soft toy -- and treat it with a significance nothing else receives. He called it the transitional object, and the infant's first \"not-me possession.\"\n\nThat phrase does real work. Up to that point, an infant doesn't clearly separate itself from its mother -- the two are experienced as one continuous world. Winnicott's theory is that the transitional object shows up exactly where that starts to change, as the infant begins sensing a boundary between \"me\" and everything \"not me.\" The object occupies a strange middle position: not part of the infant's own body, the way a thumb is, but not fully external and indifferent either.\n\n## Traced back to the very first bond\n\nWinnicott traced the origin further back, to the infant's earliest experience of the mother's breast. In the earliest weeks, a responsive mother tends to offer the breast at close to the exact moment the infant is ready for it. Repeated enough times, this creates what Winnicott called a moment of illusion -- the infant experiences something close to the sense that its own desire summoned the object into existence. The transitional object later continues that illusion on the infant's own terms, at exactly the developmental moment the infant starts realizing the actual world can't be controlled that way.\n\nA small, concrete detail from Winnicott's clinical observations captures how seriously this functions: parents tend to figure out, usually without being told, that they shouldn't wash the object too often. Cleaning it disrupts the specific smell and texture that give the object its meaning -- a freshly laundered version isn't quite the same object anymore, as far as the infant's attachment is concerned.\n\nWriting later in his 1971 book Playing and Reality, Winnicott clarified what he actually meant to describe: \"not so much the object used as the use of the object.\" The teddy bear isn't magic. What does the psychological work is the function it serves -- a stable, controllable, always-available stand-in for a world the infant is just beginning to realize it doesn't fully control.\n\n## What happens when you actually test it\n\nWinnicott's theory comes from decades of direct clinical observation, not a controlled experiment -- a different kind of evidence than a brain scan or timed exposure test, rich and clinically grounded but not the kind that gets re-run to check the numbers.\n\nOne real exception: in 1975, researchers Richard Passman and Paul Weisberg ran an actual controlled experiment testing what a security blanket does under pressure. They placed two- to three-year-olds in an unfamiliar playroom with their mother present, their own security blanket present, an unfamiliar comparable toy present, or nothing at all. Children with their blanket played and explored just as readily, and showed just as little distress, as children who had their actual mother in the room. Children given an unfamiliar toy, or nothing, explored less and were more likely to become upset.\n\nThe blanket wasn't functioning as just any comforting object -- it was standing in, measurably, for the mother herself, in exactly the situation Winnicott's theory says a transitional object is built to handle. Passman's follow-up studies over the following years held up the same result: functionally, the object wasn't a poor substitute for a parent. It was one.\n\n## Not a requirement, and not just for children\n\nWinnicott never claimed a transitional object is necessary for healthy development. Plenty of children never fixate on one specific blanket or toy and grow up perfectly securely attached regardless -- it's a description of a common developmental strategy, not a checklist requirement.\n\nThe underlying pattern doesn't necessarily end in childhood, either. Adults carrying a specific object onto a stressful flight, gripping something familiar during a hospital stay, keeping one particular item from a childhood home decades later -- the same basic template, a stable stand-in for a world that can't be fully controlled, showing up again exactly when it's needed.",
   "sources": [
     {
       "title": "Winnicott, D.W. (1953). Transitional Objects and Transitional Phenomena: A Study of the First Not-Me Possession. International Journal of Psychoanalysis, 34, 89-97.",
@@ -74,14 +76,14 @@
   "pinterest": {
     "board": "Human Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Do Kids Get So Attached to One Specific Blanket?",
+      "The Real Reason a Security Blanket Works",
+      "A Study Proved a Blanket Can Replace a Parent"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "Psychoanalyst Donald Winnicott called it a 'transitional object' -- and a 1975 experiment proved a security blanket can functionally stand in for a parent. An illustrated, research-backed explainer on why kids fixate on one specific object."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "A 1975 study found toddlers with their own security blanket stayed just as calm exploring a new room as toddlers with their actual mother there. The blanket wasn't a substitute -- functionally, it was doing the same job. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "psychology",
       "Winnicott",
@@ -92,42 +94,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DO KIDS GET SO ATTACHED TO ONE SPECIFIC BLANKET?",
+        "body": "Not any blanket -- that one. Losing it feels like an emergency."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "It's just a comfort habit. There's a real developmental theory behind it."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WINNICOTT'S 'TRANSITIONAL OBJECT'",
+        "body": "A 1951 theory: the object sits right where an infant starts sensing itself as separate from its mother."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "A STAND-IN FOR CONTROL",
+        "body": "Something the infant can hold and control, right as it realizes the real world can't be controlled that way."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "DON'T WASH IT TOO OFTEN",
+        "body": "Parents figure out cleaning it disrupts the exact smell and texture that make it 'the' object."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "PROVEN UNDER PRESSURE",
+        "body": "A 1975 study: toddlers with their blanket stayed as calm as toddlers with their actual mother present."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "A security blanket can functionally replace a parent -- a real study proved it.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman child gripping a specific worn blanket.",
+      "Explain Winnicott's 1951 theory of the 'transitional object'.",
+      "Reveal the 1975 experiment: blanket present vs. mother present, same result.",
+      "Close on the twist: it was never really about the blanket itself."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },
