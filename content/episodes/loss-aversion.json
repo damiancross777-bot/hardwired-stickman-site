@@ -2,22 +2,23 @@
   "title": "Why Does Losing $100 Hurt More Than Finding $100 Feels Good?",
   "slug": "loss-aversion",
   "status": "draft",
-  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
-  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "published_at": "2026-08-06T02:00:00+10:00",
+  "updated_at": "2026-08-06T02:00:00+10:00",
   "category": "Human Behaviour",
   "summary": "Daniel Kahneman and Amos Tversky's prospect theory and loss aversion in behavioral economics and psychology, plus the 2018 challenge from David Gal and Derek Rucker and capuchin monkey experiments by Laurie Santos.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "In 1979, Daniel Kahneman and Amos Tversky's prospect theory found that people evaluate money relative to a reference point, and that the psychological impact of losses follows a steeper curve than equivalent gains -- losses hurt more than the same-sized gain feels good. Estimates put the effect at roughly 1.5 to 2.5 times as strong, and it shows up in gambling behavior, in capuchin monkeys trading tokens for food, and in fMRI scans where reward-related brain activity drops off more sharply for potential losses than it rises for potential gains. A later, still-ongoing academic debate found the effect is real but more context-dependent than the popular version suggests, showing up more reliably at larger stakes than small ones.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT16M0S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "Later researchers tried to put an actual number on how much steeper.",
-    "This asymmetry doesn't stay confined to hypothetical gambling questions.",
-    "There's also a hint that this isn't purely a product of human economic culture.",
-    "There's also a neural signature for this, not just a behavioral one."
+    "In 1979, Daniel Kahneman and Amos Tversky's prospect theory found people evaluate money relative to a reference point, with losses producing a steeper psychological reaction than equivalent gains.",
+    "Later estimates put loss aversion at roughly 1.5 to 2.5 times as psychologically strong as an equivalent gain, with 2x as the figure most commonly cited.",
+    "Capuchin monkeys trading tokens for food showed the same lopsided sensitivity to losses versus equivalent gains -- a hint the asymmetry predates human economic culture.",
+    "fMRI scans during gambling decisions found reward-related brain activity rose with potential gains but dropped more steeply with potential losses -- and the steepness individually predicted each person's own loss-averse behavior.",
+    "A 2018 paper directly challenged loss aversion as a universal law; even researchers who disagreed conceded it's more context-dependent than commonly taught, showing up more reliably at larger stakes than small ones."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## Two feelings that should be mirror images\n\nImagine you find a hundred dollars on the sidewalk -- genuinely unexpected, free money. You'd feel good about that for a while. Now imagine instead you reach into your pocket and the hundred dollars you had is just gone. Same amount, same effect on your bank balance, in the opposite direction. If you're honest, those two feelings aren't mirror images. Losing the hundred dollars would probably bother you longer and more than finding it would have delighted you.\n\n## A dollar is supposed to be a dollar\n\nThat should bother you a little as a strictly rational question. Gaining a hundred dollars and losing a hundred dollars are the same event running in opposite directions -- a purely logical calculator of self-interest should feel exactly as much about one as the other, just flipped in sign. Classical economic theory assumed exactly that for a long time. Real people don't do that, and the asymmetry isn't subtle or rare -- it shows up in gambling decisions, negotiations, and something as mundane as deciding whether to sell a possession you already own.\n\n## Prospect theory\n\nIn 1979, psychologists Daniel Kahneman and Amos Tversky published a paper that would become the single most-cited paper in the history of the journal Econometrica. They called their model prospect theory, and it directly challenged the assumption that people evaluate money based on total final wealth. Their finding was that people evaluate outcomes relative to a reference point -- usually wherever they currently stand -- treating anything better as a gain and anything worse as a loss from that point.\n\nThat reframing alone doesn't explain the asymmetry. What does is how the psychological impact of gains and losses behaves as the numbers get bigger: gains feel good with diminishing returns, but the whole loss side of the curve is steeper. A loss of a given size produces a stronger psychological reaction than a gain of the exact same size. That steeper slope is loss aversion.\n\n## Putting a number on it\n\nLater researchers estimated how much steeper -- somewhere between one and a half and two and a half times as strong, with two times as the figure that ended up in most textbooks. Under that estimate, losing a hundred dollars carries roughly the psychological weight of gaining two hundred.\n\nThis shows up well beyond hypothetical gambling questions. It's behind the endowment effect -- people demanding more money to give up something they already own than they'd pay to acquire the identical item fresh, because giving it up registers as a loss while acquiring it registers only as a gain. It's behind sticking with a default option, because switching can register as risking a loss even when the alternative is objectively better. It's behind refusing to sell a bad investment, because selling at a loss makes the loss final in a way holding onto it doesn't.\n\n## Older than money itself?\n\nIn a 2006 study, researchers trained capuchin monkeys to trade small tokens for food, giving the monkeys a working currency. When the setup was adjusted so a monkey occasionally experienced what functioned as a loss, the monkeys showed the same lopsided sensitivity -- reacting more strongly to a loss than an equivalent gain. A species that never developed money or economic theory showing the same asymmetry is a hint the tendency runs deeper than culture alone.\n\nThere's a neural signature too. A 2007 study scanned people's brains while they decided whether to accept a series of 50/50 gambles. As the potential gain increased, activity rose in reward-related brain regions including the ventral striatum -- but as the potential loss increased, activity in those same regions decreased. The asymmetry was individually predictive: people whose brain activity dropped off more steeply for potential losses were the same people who behaved more loss-averse when actually deciding whether to take the gamble.\n\n## A live disagreement worth taking seriously\n\nIn 2018, researchers David Gal and Derek Rucker published a pointedly titled paper: \"The Loss of Loss Aversion: Will It Loom Larger Than Its Gain?\" Their argument wasn't that losses never feel worse than gains -- it was that the evidence for loss aversion as a broad, universal law is weaker and more context-dependent than the popular version suggests.\n\nOther researchers pushed back on specific pieces of that argument, but even those who disagreed largely conceded the underlying point: loss aversion had been accepted too uncritically as a fixed, universal law. Later work looking specifically at stake size found the effect shows up more reliably at larger amounts and becomes less consistent -- sometimes disappearing entirely -- at smaller ones. A hundred dollars sits closer to the small end of that range, meaning the classic \"twice as bad\" framing might be least reliable exactly where it's most commonly illustrated.\n\n## What actually holds up\n\nFor a lot of people, in a lot of situations, losing a hundred dollars really does feel worse than finding a hundred dollars feels good, and the asymmetry Kahneman and Tversky identified remains one of the most influential findings in behavioral science. But the honest answer isn't \"always, exactly twice as much.\" It's closer to: often, unevenly, and more reliably at higher stakes than the textbook example usually illustrates. The interesting finding was never the exact number -- it was the discovery that \"a dollar is a dollar\" isn't actually how anyone experiences money.",
   "sources": [
     {
       "title": "Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263-291.",
@@ -90,14 +91,14 @@
   "pinterest": {
     "board": "Human Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Does Losing $100 Hurt More Than Finding It Feels Good?",
+      "Even Monkeys Show This Money Bias",
+      "Your Brain Weighs Losses Twice as Heavily"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "Nobel-winning research found losses hurt roughly twice as much as equivalent gains feel good -- and the effect shows up in monkey brains and fMRI scans too. An illustrated, research-backed explainer on loss aversion."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "Losing $100 and finding $100 should feel like mirror images. They don't. Kahneman and Tversky's Nobel-winning research found losses hit roughly twice as hard -- and even capuchin monkeys show the same bias. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "psychology",
       "lossaversion",
@@ -108,42 +109,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DOES LOSING $100 HURT MORE THAN FINDING $100 FEELS GOOD?",
+        "body": "Mathematically identical. Emotionally, not even close."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "A dollar is a dollar. Classical economics assumed exactly that -- and was wrong."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "PROSPECT THEORY, 1979",
+        "body": "Kahneman and Tversky found losses hit roughly twice as hard as equivalent gains feel good."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "EVEN MONKEYS SHOW IT",
+        "body": "Capuchin monkeys trading tokens for food showed the exact same lopsided bias toward losses."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "IT SHOWS UP ON A BRAIN SCAN",
+        "body": "fMRI scans found reward-region activity drops off sharper for losses than it rises for gains."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "BUT IT'S NOT AS SIMPLE AS 'ALWAYS 2X'",
+        "body": "Later research found the effect is real but more reliable at high stakes than small ones."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "Losing $100 and finding $100 should feel equal. They don't -- and there's a reason.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman finding $100, then losing $100 -- compare reactions.",
+      "Reveal Kahneman and Tversky's Nobel-winning prospect theory.",
+      "Explain even capuchin monkeys show the same bias trading tokens for food.",
+      "Close on the brain scan: losses hit reward circuitry harder than gains lift it."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },
