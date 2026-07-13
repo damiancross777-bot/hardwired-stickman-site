@@ -1,0 +1,139 @@
+{
+  "title": "Why Do Kids Get So Attached to One Specific Blanket?",
+  "slug": "attachment-to-objects",
+  "status": "draft",
+  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
+  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "category": "Human Behaviour",
+  "summary": "Psychoanalyst Donald Winnicott's transitional object theory explains why infants fixate on one specific blanket or teddy bear, and how developmental psychology and Richard Passman's security blanket experiments tested it.",
+  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "Winnicott traced the origin of this even further back, to the infant's very first experience of the mother's breast.",
+    "There's a small, very concrete detail from Winnicott's clinical observations that captures how seriously this functions.",
+    "And it's worth being precise about what Winnicott himself said mattered here, because it's easy to get this backwards."
+  ],
+  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "sources": [
+    {
+      "title": "Winnicott, D.W. (1953). Transitional Objects and Transitional Phenomena: A Study of the First Not-Me Possession. International Journal of Psychoanalysis, 34, 89-97.",
+      "publisher": "Transitional object concept coined; typically emerges 4-12 months, manifesting as a blanket, cloth, or soft toy",
+      "url": "https://pep-web.org/browse/document/IJP.034.0089A"
+    },
+    {
+      "title": "Winnicott, D.W. (1953). Transitional Objects and Transitional Phenomena: A Study of the First Not-Me Possession. International Journal of Psychoanalysis, 34, 89-97.",
+      "publisher": "'First not-me possession' framing -- the object occupies a middle position between 'me' and 'not-me'",
+      "url": "https://pep-web.org/browse/document/IJP.034.0089A"
+    },
+    {
+      "title": "Winnicott, D.W. (1953). Transitional Objects and Transitional Phenomena. International Journal of Psychoanalysis, 34, 89-97; further developed in Winnicott, D.W. (1971). Playing and Reality. Tavistock Publications / Basic Books.",
+      "publisher": "Origin traced to the infant's experience of the mother's breast; the 'moment of illusion' of infant omnipotence, later continued by the transitional object",
+      "url": "https://archive.org/details/playingreality00winn"
+    },
+    {
+      "title": "Winnicott, D.W. (1971). Playing and Reality. Tavistock Publications / Basic Books, p. xii.",
+      "publisher": "Direct quote -- 'not so much the object used as the use of the object,' clarifying the object itself isn't what matters, the function it serves is",
+      "url": "https://archive.org/details/playingreality00winn"
+    },
+    {
+      "title": "Passman, R.H. & Weisberg, P. (1975). Mothers and blankets as agents for promoting play and exploration by young children in a novel environment: The effects of social and nonsocial attachment objects. Developmental Psychology, 11(2), 170-177.",
+      "publisher": "Controlled experiment: 2-3 year olds in an unfamiliar playroom explored/played and showed as little distress with their own security blanket present as with their mother present; children given an unfamiliar toy or nothing explored/played less and were more distressed -- directly answers Beat 5's own hedge that no controlled experimental evidence exists for this topic",
+      "url": "https://doi.org/10.1037/h0076464"
+    },
+    {
+      "title": "Encyclopedia.com, \"Transitional Phenomena\" entry (summarizing Winnicott's original 1951/1953 formulation and explicitly correcting the common misapprehension that a transitional object is required for healthy development).",
+      "publisher": "Required hedge / correction -- Winnicott never claimed a transitional object is necessary for healthy development; this is a common misreading of the theory",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/transitional-phenomena"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Do Kids Get So Attached to One Specific Blanket? | Hardwired Stickman",
+    "description": "Psychoanalyst Donald Winnicott's transitional object theory explains why infants fixate on one specific blanket or teddy bear, and how developmental psychology and Richard Passman's security blanket experiments tested it.",
+    "keywords": [
+      "psychology",
+      "developmental psychology",
+      "Donald Winnicott",
+      "transitional object",
+      "security blanket",
+      "child development",
+      "attachment theory",
+      "Richard Passman",
+      "human behavior",
+      "infant psychology",
+      "not-me possession",
+      "Playing and Reality",
+      "why we get attached",
+      "comfort object",
+      "psychoanalysis"
+    ]
+  },
+  "pinterest": {
+    "board": "Human Behaviour Explained",
+    "hooks": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "description": "TODO -- fill in before publish"
+  },
+  "instagram": {
+    "caption": "TODO -- fill in before publish",
+    "hashtags": [
+      "psychology",
+      "Winnicott",
+      "childdevelopment",
+      "attachment",
+      "securityblanket",
+      "humanbehavior"
+    ],
+    "slides": [
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      }
+    ]
+  },
+  "reel": {
+    "hook": "TODO -- fill in before publish",
+    "beats": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "007-attachment-to-objects",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}

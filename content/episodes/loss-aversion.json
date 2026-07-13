@@ -1,0 +1,155 @@
+{
+  "title": "Why Does Losing $100 Hurt More Than Finding $100 Feels Good?",
+  "slug": "loss-aversion",
+  "status": "draft",
+  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
+  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "category": "Human Behaviour",
+  "summary": "Daniel Kahneman and Amos Tversky's prospect theory and loss aversion in behavioral economics and psychology, plus the 2018 challenge from David Gal and Derek Rucker and capuchin monkey experiments by Laurie Santos.",
+  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "Later researchers tried to put an actual number on how much steeper.",
+    "This asymmetry doesn't stay confined to hypothetical gambling questions.",
+    "There's also a hint that this isn't purely a product of human economic culture.",
+    "There's also a neural signature for this, not just a behavioral one."
+  ],
+  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "sources": [
+    {
+      "title": "Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263-291.",
+      "publisher": "Prospect theory -- reference-point-dependent evaluation; value function steeper for losses than gains",
+      "url": "https://doi.org/10.2307/1914185"
+    },
+    {
+      "title": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2002 -- awarded to Daniel Kahneman (shared with Vernon L. Smith) \"for having integrated insights from psychological research into economic science.\"",
+      "publisher": "Kahneman awarded 2002 Nobel Memorial Prize in Economic Sciences for prospect theory work; Tversky ineligible (died 1996, prize not awarded posthumously)",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/summary/"
+    },
+    {
+      "title": "Tversky, A. & Kahneman, D. (1992). Advances in Prospect Theory: Cumulative Representation of Uncertainty. Journal of Risk and Uncertainty, 5(4), 297-323.",
+      "publisher": "Loss-aversion coefficient (λ) estimates cluster 1.5-2.5, canonical ~2.25 value used in most textbook treatments",
+      "url": "https://doi.org/10.1007/BF00122574"
+    },
+    {
+      "title": "Kahneman, D., Knetsch, J.L. & Thaler, R.H. (1991). Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias. Journal of Economic Perspectives, 5(1), 193-206.",
+      "publisher": "Endowment effect, status quo bias, and related anomalies as downstream phenomena of loss aversion",
+      "url": "https://doi.org/10.1257/jep.5.1.193"
+    },
+    {
+      "title": "Chen, M.K., Lakshminarayanan, V. & Santos, L.R. (2006). How Basic Are Behavioral Biases? Evidence from Capuchin Monkey Trading Behavior. Journal of Political Economy, 114(3), 517-537.",
+      "publisher": "Capuchin monkeys show loss-averse trading behavior with token currency, suggesting the asymmetry predates human economic culture",
+      "url": "https://doi.org/10.1086/503550"
+    },
+    {
+      "title": "Gal, D. & Rucker, D.D. (2018). The Loss of Loss Aversion: Will It Loom Larger Than Its Gain? Journal of Consumer Psychology, 28(3), 497-516.",
+      "publisher": "Required hedge -- direct challenge to loss aversion's universality as a general psychological law, arguing current evidence doesn't support losses being more impactful than gains across the board",
+      "url": "https://doi.org/10.1002/jcpy.1047"
+    },
+    {
+      "title": "Simonson, I. & Kivetz, R. (2018). Bringing (Contingent) Loss Aversion Down to Earth -- A Comment on Gal & Rucker's Rejection of \"Losses Loom Larger Than Gains.\" Journal of Consumer Psychology, 28(3), 517-522.",
+      "publisher": "Response to Gal & Rucker -- pushed back on their overall conclusion but conceded loss aversion had been accepted too uncritically as a fixed, universal law rather than something context-dependent",
+      "url": "https://doi.org/10.1002/jcpy.1046"
+    },
+    {
+      "title": "Yechiam, E. (2019). Acceptable Losses: The Debatable Origins of Loss Aversion. Psychological Research, 83(7), 1327-1339.",
+      "publisher": "Loss aversion effect is more reliable at larger stakes and becomes less consistent, sometimes absent, at smaller stakes -- directly relevant to the episode's own $100 example",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29663131/"
+    },
+    {
+      "title": "Tom, S.M., Fox, C.R., Trepel, C. & Poldrack, R.A. (2007). The Neural Basis of Loss Aversion in Decision-Making Under Risk. Science, 315(5811), 515-518.",
+      "publisher": "Neural basis of loss aversion: fMRI during 50/50 gambling decisions showed activity in gain-sensitive brain regions (including ventral striatum) increased with potential gain size but decreased with potential loss size; the steepness of this neural asymmetry individually predicted each participant's own behavioral loss aversion",
+      "url": "https://doi.org/10.1126/science.1134239"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Does Losing $100 Hurt More Than Finding $100 Feels Good? | Hardwired Stickman",
+    "description": "Daniel Kahneman and Amos Tversky's prospect theory and loss aversion in behavioral economics and psychology, plus the 2018 challenge from David Gal and Derek Rucker and capuchin monkey experiments by Laurie Santos.",
+    "keywords": [
+      "psychology",
+      "behavioral economics",
+      "loss aversion",
+      "prospect theory",
+      "Daniel Kahneman",
+      "Amos Tversky",
+      "endowment effect",
+      "decision making",
+      "animal behavior",
+      "capuchin monkeys",
+      "Laurie Santos",
+      "David Gal",
+      "cognitive bias",
+      "neuroeconomics",
+      "science"
+    ]
+  },
+  "pinterest": {
+    "board": "Human Behaviour Explained",
+    "hooks": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "description": "TODO -- fill in before publish"
+  },
+  "instagram": {
+    "caption": "TODO -- fill in before publish",
+    "hashtags": [
+      "psychology",
+      "lossaversion",
+      "behavioraleconomics",
+      "kahneman",
+      "prospecttheory",
+      "decisionmaking"
+    ],
+    "slides": [
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      }
+    ]
+  },
+  "reel": {
+    "hook": "TODO -- fill in before publish",
+    "beats": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "008-loss-aversion",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}

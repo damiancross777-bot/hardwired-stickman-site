@@ -1,0 +1,149 @@
+{
+  "title": "Why Does Rejection Hurt Like a Physical Wound?",
+  "slug": "why-rejection-hurts",
+  "status": "draft",
+  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
+  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "category": "Human Behaviour",
+  "summary": "In 2003, psychologist Naomi Eisenberger, with Matthew Lieberman and Kipling Williams, used fMRI and the Cyberball exclusion game to show that social rejection activates the dorsal anterior cingulate cortex — the same brain region tied to the distress of physical pain.",
+  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "This wasn't actually the first hint that social separation and physical pain might share circuitry — it was just the first time anyone could see it directly in a living human brain.",
+    "There's a theory for why evolution would build it this way, proposed by researcher Jaak Panksepp: rather than building an entirely separate alarm system for social loss, evolution took a shortcut.",
+    "And here's the detail that turns this from an interesting brain-scan finding into something almost unsettling: if the systems really do overlap, a drug built to dull physical pain should, at least in theory, dull social pain too.",
+    "An over-the-counter painkiller, taken for something with no wound, no injury, no physical cause at all — and it measurably worked anyway."
+  ],
+  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "sources": [
+    {
+      "title": "MacDonald, G. & Leary, M.R. (2005). Why does social exclusion hurt? The relationship between social and physical pain. Psychological Bulletin, 131(2), 202-223.",
+      "publisher": "Cross-linguistic use of physical-pain words for social pain; theoretical case that social exclusion is processed by the physical pain system",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15740417/"
+    },
+    {
+      "title": "Eisenberger, N.I., Lieberman, M.D. & Williams, K.D. (2003). Does rejection hurt? An fMRI study of social exclusion. Science, 302(5643), 290-292.",
+      "publisher": "Cyberball fMRI study -- dACC activation during exclusion correlated with distress; RVPFC activation correlated with regulation of that distress",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14551436/"
+    },
+    {
+      "title": "Panksepp, J., Vilberg, T., Bean, N.J., Coy, D.H. & Kastin, A.J. (1978). Reduction of distress vocalization in chicks by opiate-like peptides. Brain Research Bulletin, 3(6), 663-667.",
+      "publisher": "Distress vocalizations in isolated bird chicks reduced by opiate-like peptides -- early evidence of shared opioid circuitry between separation distress and physical pain",
+      "url": "https://doi.org/10.1016/0361-9230(78)90014-X"
+    },
+    {
+      "title": "MacLean, P.D. & Newman, J.D. (1988). Role of midline frontolimbic cortex in production of the isolation call of squirrel monkeys. Brain Research, 450(1-2), 111-123.",
+      "publisher": "Cingulate cortex lesions reducing separation/isolation distress calls in squirrel monkeys -- cross-species evidence for the same brain region governing separation response",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3401705/"
+    },
+    {
+      "title": "Panksepp, J. (2003). Neuroscience: Feeling the pain of social loss. Science, 302(5643), 237-239.",
+      "publisher": "Theoretical framing: the social-attachment system evolutionarily 'borrowed' the physical pain system's computations rather than evolving a separate alarm system",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14551424/"
+    },
+    {
+      "title": "DeWall, C.N., MacDonald, G., Webster, G.D., Masten, C.L., Baumeister, R.F., Powell, C., Combs, D., Schurtz, D.R., Stillman, T.F., Tice, D.M. & Eisenberger, N.I. (2010). Acetaminophen reduces social pain: Behavioral and neural evidence. Psychological Science, 21(7), 931-937.",
+      "publisher": "Acetaminophen (1,000mg/day, 3 weeks) reduced self-reported social pain (Exp. 1) and dACC/anterior insula neural response to Cyberball exclusion (Exp. 2)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20548058/"
+    },
+    {
+      "title": "Somerville, L.H., Heatherton, T.F. & Kelley, W.M. (2006). Anterior cingulate cortex responds differentially to expectancy violation and social rejection. Nature Neuroscience, 9(8), 1007-1008; corroborated by Bolling, D.Z., Pitskel, N.B., Deen, B., Crowley, M.J., McPartland, J.C., Mayes, L.C. & Pelphrey, K.A. (2011). Dissociable brain mechanisms for processing social exclusion and rule violation. NeuroImage, 54(3), 2462-2471.",
+      "publisher": "Complication: dACC activation during Cyberball exclusion may partly reflect general expectancy-violation/surprise rather than social pain specifically -- a dissociable, nearby region tracks rule-violation separately from social rejection",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16819523/"
+    },
+    {
+      "title": "Hofman, S., Wieser, M.J. & van der Veen, F.M. (2021). Acetaminophen does not affect cardiac and brain responses to social rejection but seems to attenuate behavioral adaptation in a social judgment task. Social Neuroscience, 16(4), 362-374.",
+      "publisher": "Complication: a single-dose acetaminophen trial did not reproduce DeWall's neural/cardiac effects -- narrows the original finding to sustained dosing rather than contradicting it",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33952155/"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Does Rejection Hurt Like a Physical Wound? | Hardwired Stickman",
+    "description": "In 2003, psychologist Naomi Eisenberger, with Matthew Lieberman and Kipling Williams, used fMRI and the Cyberball exclusion game to show that social rejection activates the dorsal anterior cingulate cortex — the same brain region tied to the distress of physical pain.",
+    "keywords": [
+      "psychology",
+      "neuroscience",
+      "social rejection",
+      "physical pain",
+      "Naomi Eisenberger",
+      "Cyberball experiment",
+      "dorsal anterior cingulate cortex",
+      "Jaak Panksepp",
+      "C. Nathan DeWall",
+      "acetaminophen",
+      "fMRI",
+      "human behavior",
+      "evolutionary psychology",
+      "social pain",
+      "science"
+    ]
+  },
+  "pinterest": {
+    "board": "Human Behaviour Explained",
+    "hooks": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "description": "TODO -- fill in before publish"
+  },
+  "instagram": {
+    "caption": "TODO -- fill in before publish",
+    "hashtags": [
+      "psychology",
+      "neuroscience",
+      "rejection",
+      "socialpain",
+      "brain"
+    ],
+    "slides": [
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      }
+    ]
+  },
+  "reel": {
+    "hook": "TODO -- fill in before publish",
+    "beats": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "002-why-rejection-hurts",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}

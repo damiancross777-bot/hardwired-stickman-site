@@ -1,0 +1,161 @@
+{
+  "title": "Why Do You Flinch Before You See the Danger?",
+  "slug": "why-you-flinch",
+  "status": "draft",
+  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
+  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "category": "Human Behaviour",
+  "summary": "Neuroscientist Joseph LeDoux mapped the brain's 'low road' — a fast thalamus-to-amygdala fear pathway — explaining why you flinch before conscious awareness forms. A look at the psychology and neuroscience of fear.",
+  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "LeDoux named these two routes the low road and the high road, in his 1996 book The Emotional Brain, and the names describe exactly what each one does.",
+    "The low road runs directly from the thalamus — a kind of sensory relay station deep in the brain — straight to the amygdala, without ever passing through the cortex at all.",
+    "The high road is that second pathway — thalamus to sensory cortex, where the detail actually gets processed, and only then to the amygdala.",
+    "LeDoux's model was built entirely on rats, which raises an obvious question: does any of this actually hold up in a human brain?",
+    "An even more extreme case makes the same point more directly."
+  ],
+  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "sources": [
+    {
+      "title": "LeDoux, J.E., Iwata, J., Cicchetti, P. & Reis, D.J. (1988). Different projections of the central amygdaloid nucleus mediate autonomic and behavioral correlates of conditioned fear. Journal of Neuroscience, 8(7), 2517-2529.",
+      "publisher": "Foundational discovery that distinct projection pathways out of the central amygdaloid nucleus mediate separate autonomic and behavioral correlates of conditioned fear; establishes the tone+shock fear-conditioning paradigm LeDoux's lab used throughout this research program",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2854842/"
+    },
+    {
+      "title": "LeDoux, J.E., Cicchetti, P., Xagoraris, A. & Romanski, L.M. (1990). The lateral amygdaloid nucleus: sensory interface of the amygdala in fear conditioning. Journal of Neuroscience, 10(4), 1062-1069.",
+      "publisher": "Establishes the lateral amygdaloid nucleus as the sensory interface of the amygdala in fear conditioning -- the thalamus-to-amygdala 'low road' pathway",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2329367/"
+    },
+    {
+      "title": "LeDoux, J.E., Farb, C. & Ruggiero, D.A. (1990). Topographic organization of neurons in the acoustic thalamus that project to the amygdala. Journal of Neuroscience, 10(4), 1043-1054.",
+      "publisher": "Maps the topographic organization of acoustic-thalamus neurons projecting directly to the amygdala without passing through cortex -- the anatomical basis of the direct 'low road'",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2158523/"
+    },
+    {
+      "title": "LeDoux, J.E. (1996). The Emotional Brain: The Mysterious Underpinnings of Emotional Life. Simon & Schuster.",
+      "publisher": "'Low road' / 'high road' naming and framework for the two dual fear-processing pathways (thalamus-to-amygdala direct vs. thalamus-to-cortex-to-amygdala)",
+      "url": "https://books.google.com/books/about/The_Emotional_Brain.html?id=7EJN5I8sk2wC"
+    },
+    {
+      "title": "LeDoux, J.E., Iwata, J., Cicchetti, P. & Reis, D.J. (1988). Different projections of the central amygdaloid nucleus mediate autonomic and behavioral correlates of conditioned fear. Journal of Neuroscience, 8(7), 2517-2529. [Methodology consistent across LeDoux's 1988-1990 amygdala-pathway papers.]",
+      "publisher": "Fear-conditioning methodology itself (a neutral tone paired with a mild shock produces a conditioned freezing response to the tone alone) -- the experimental technique LeDoux used to trace the threat-signal pathway structure by structure; same underlying methodology as the 1988-1990 papers above, not a separate study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2854842/"
+    },
+    {
+      "title": "LeDoux, J. (2002), quoted in \"The Synaptic Self.\" Monitor on Psychology, 33(10). American Psychological Association.",
+      "publisher": "Illustrative snake-vs-object example (a long, thin shape triggering the crude, fast low-road response before the slower high road identifies it correctly) as directly explained by LeDoux -- reputable secondary coverage (APA's own publication) reporting LeDoux's direct explanation, not a primary paper; confirmed via fetch that the article quotes LeDoux describing the low road misreading 'a long, thin object' as a snake before the high road determines it is harmless",
+      "url": "https://www.apa.org/monitor/nov02/synaptic"
+    },
+    {
+      "title": "LeDoux, J. (2010). Big Think Interview With Joseph LeDoux. Big Think (recorded 16 Sep 2010).",
+      "publisher": "Direct quote from LeDoux: conscious awareness of a stimulus takes roughly 250-300 milliseconds, far slower than the low road's ~10-12ms subcortical signal to the amygdala -- sourced to LeDoux's own recorded explanation rather than a primary paper",
+      "url": "https://bigthink.com/videos/big-think-interview-with-joseph-ledoux/"
+    },
+    {
+      "title": "LeDoux, J.E. (2015). Anxious: Using the Brain to Understand and Treat Fear and Anxiety. Viking.",
+      "publisher": "Later-career distinction between the unconscious defensive circuit (the fast, automatic jump-back reflex) and the conscious, subjective feeling of fear; explicit pushback against his own earlier framing that equated amygdala circuit activity with the feeling of fear itself",
+      "url": "https://books.google.com/books/about/Anxious.html?id=mg0bBQAAQBAJ"
+    },
+    {
+      "title": "Whalen, P.J., Rauch, S.L., Etcoff, N.L., McInerney, S.C., Lee, M.B. & Jenike, M.A. (1998). Masked Presentations of Emotional Facial Expressions Modulate Amygdala Activity without Explicit Knowledge. Journal of Neuroscience, 18(1), 411-418.",
+      "publisher": "Human fMRI confirmation of unconscious amygdala threat-processing: masked fearful vs. happy faces (33ms exposure, 167ms backward mask, below the threshold for conscious perception) produced significantly higher amygdala activation for fearful faces even though 8 of 10 participants reported no awareness the emotional faces had ever appeared",
+      "url": "https://www.jneurosci.org/content/18/1/411"
+    },
+    {
+      "title": "de Gelder, B., Vroomen, J., Pourtois, G. & Weiskrantz, L. (1999). Non-conscious recognition of affect in the absence of striate cortex. NeuroReport, 10(18), 3759-3763.",
+      "publisher": "\"Affective blindsight\": patient G.Y., with cortical blindness from occipital lobe damage, could discriminate fearful vs. happy facial expressions shown to his blind visual field at above-chance accuracy despite reporting no conscious vision, with amygdala activation specifically to the fearful faces -- demonstrates a cortex-independent (superior colliculus/pulvinar) threat pathway in a human patient",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10716205/"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Do You Flinch Before You See the Danger? | Hardwired Stickman",
+    "description": "Neuroscientist Joseph LeDoux mapped the brain's 'low road' — a fast thalamus-to-amygdala fear pathway — explaining why you flinch before conscious awareness forms. A look at the psychology and neuroscience of fear.",
+    "keywords": [
+      "neuroscience",
+      "psychology",
+      "Joseph LeDoux",
+      "amygdala",
+      "fear response",
+      "low road high road",
+      "affective blindsight",
+      "Paul Whalen",
+      "Beatrice de Gelder",
+      "human behavior",
+      "evolutionary biology",
+      "classical conditioning",
+      "thalamus",
+      "brain science",
+      "fight or flight"
+    ]
+  },
+  "pinterest": {
+    "board": "Human Behaviour Explained",
+    "hooks": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "description": "TODO -- fill in before publish"
+  },
+  "instagram": {
+    "caption": "TODO -- fill in before publish",
+    "hashtags": [
+      "neuroscience",
+      "psychology",
+      "amygdala",
+      "fear",
+      "brain",
+      "LeDoux"
+    ],
+    "slides": [
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      }
+    ]
+  },
+  "reel": {
+    "hook": "TODO -- fill in before publish",
+    "beats": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "004-why-you-flinch",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}

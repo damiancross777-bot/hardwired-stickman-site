@@ -1,0 +1,156 @@
+{
+  "title": "Why Do Elephants Return to Where One of Them Died?",
+  "slug": "elephant-grief",
+  "status": "draft",
+  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
+  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "category": "Animal Behaviour",
+  "summary": "The Amboseli Elephant Research Project, founded by Cynthia Moss, and a controlled study by Karen McComb reveal how African elephants recognize the skulls and ivory of their own species, a landmark case in animal behavior and cognition.",
+  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "The way elephants physically investigate a skull adds another layer to this.",
+    "A separate, well-documented case adds real texture to what this looks like in the wild.",
+    "There's a reason a system like this might be worth having in the first place, and it comes from a separate strand of Moss's research.",
+    "Losing an individual like that isn't a minor loss to an elephant family.",
+    "Seen against that backdrop, stopping to investigate a set of remains — checking, specifically, whether this was an elephant, whether it might have been someone who mattered — starts to look less like idle curiosity and more like exactly the kind of information an elephant family has every practical reason to track carefully."
+  ],
+  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "sources": [
+    {
+      "title": "Amboseli Trust for Elephants. Dr Cynthia Moss -- Project history. (Moss formally established the Amboseli Elephant Research Project with Harvey Croze in Amboseli National Park, Kenya, in 1972; longest-running study of wild elephant behavior.)",
+      "publisher": "Cynthia Moss founded the Amboseli Elephant Research Project in 1972, longest continuously running elephant study",
+      "url": "https://www.elephanttrust.org/project-history/"
+    },
+    {
+      "title": "McComb, K., Baker, L. & Moss, C. (2006). African elephants show high levels of interest in the skulls and ivory of their own species. Biology Letters, 2(1), 26-28.",
+      "publisher": "Controlled experiment: elephants shown significantly more interest in elephant skulls/ivory than other animal skulls or wood",
+      "url": "https://doi.org/10.1098/rsbl.2005.0400"
+    },
+    {
+      "title": "PBS NOVA. The Depths of Animal Grief. (Field-observation reporting on elephant trunk investigation of skulls/jaws/tusks, quoting researchers Cynthia Moss and Joyce Poole directly; science journalism outlet, not the citation of record for the underlying mechanism -- see McComb, Baker & Moss 2006 above for the controlled-study source.)",
+      "publisher": "Trunk investigation focuses on jaw, tusks, teeth -- features used in living-elephant identification/greeting -- field observation reporting quoting Cynthia Moss/Joyce Poole",
+      "url": "https://www.pbs.org/wgbh/nova/article/animal-grief/"
+    },
+    {
+      "title": "Douglas-Hamilton, I., Bhalla, S., Wittemyer, G. & Vollrath, F. (2006). Behavioural reactions of elephants towards a dying and deceased matriarch. Applied Animal Behaviour Science, 100(3-4), 87-102.",
+      "publisher": "Eleanor case study -- unrelated family groups altering path to investigate dying/deceased matriarch",
+      "url": "https://www.savetheelephants.org/wp-content/uploads/2016/11/2006_D-H_etal_DeathOfMatriarch_16Pages.pdf"
+    },
+    {
+      "title": "Poole, J., as reported in PBS NOVA, The Depths of Animal Grief. (Direct researcher-sourced account of an Amboseli elephant carrying a dying newborn approximately 1,500 feet into a grove of palms; reported via science journalism, not a standalone peer-reviewed publication of this specific incident.)",
+      "publisher": "Elephants carrying dying/dead calves long distances, never healthy calves; ~1,500ft carry case reported by Joyce Poole",
+      "url": "https://www.pbs.org/wgbh/nova/article/animal-grief/"
+    },
+    {
+      "title": "McComb, K., Baker, L. & Moss, C. (2006). African elephants show high levels of interest in the skulls and ivory of their own species. Biology Letters, 2(1), 26-28. (Same study as the core mechanism citation -- this finding is part of the original results, not a separate study.)",
+      "publisher": "Complication: no elevated interest in remains of specific deceased relatives vs. unrelated elephants' remains",
+      "url": "https://doi.org/10.1098/rsbl.2005.0400"
+    },
+    {
+      "title": "General scientific caution, no single primary study directly testing elephant tear composition/cause pinned down; represented in narration as a hedge ('far more likely explanation'), not a settled fact. Broadly consistent with academic commentary such as: Elephants are sensitive and very social, but there is no evidence they cry, The Conversation.",
+      "publisher": "Complication: 'elephant tears' likely ordinary eye lubrication, not confirmed emotional response",
+      "url": "https://theconversation.com/elephants-are-sensitive-and-very-social-but-there-is-no-evidence-they-cry-29241"
+    },
+    {
+      "title": "McComb, K., Moss, C., Durant, S.M., Baker, L. & Sayialel, S. (2001). Matriarchs As Repositories of Social Knowledge in African Elephants. Science, 292(5516), 491-494.",
+      "publisher": "Matriarch age determines a family's ability to correctly assess predator threat from lion roars; older matriarchs' families respond appropriately (bunching defensively to genuinely dangerous male lion roars), younger matriarchs' families often fail to; demonstrates the survival value of an individual's accumulated social/ecological knowledge",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11313492/"
+    },
+    {
+      "title": "Gobush, K.S., Mutayoba, B.M. & Wasser, S.K. (2008). Long-Term Impacts of Poaching on Relatedness, Stress Physiology, and Reproductive Output of Adult Female African Elephants. Conservation Biology, 22(6), 1590-1599.",
+      "publisher": "Elephant populations that lost most older females to historical poaching showed measurably lower reproductive rates and elevated stress hormones for years afterward, despite prime-aged females remaining -- demonstrates a real, measurable fitness cost to losing experienced individuals",
+      "url": "https://doi.org/10.1111/j.1523-1739.2008.01035.x"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Do Elephants Return to Where One of Them Died? | Hardwired Stickman",
+    "description": "The Amboseli Elephant Research Project, founded by Cynthia Moss, and a controlled study by Karen McComb reveal how African elephants recognize the skulls and ivory of their own species, a landmark case in animal behavior and cognition.",
+    "keywords": [
+      "animal behavior",
+      "elephants",
+      "elephant cognition",
+      "Cynthia Moss",
+      "Amboseli Elephant Research Project",
+      "Karen McComb",
+      "Joyce Poole",
+      "Iain Douglas-Hamilton",
+      "animal cognition",
+      "evolutionary biology",
+      "elephant grief",
+      "science",
+      "biology",
+      "matriarch knowledge",
+      "wildlife research"
+    ]
+  },
+  "pinterest": {
+    "board": "Animal Behaviour Explained",
+    "hooks": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "description": "TODO -- fill in before publish"
+  },
+  "instagram": {
+    "caption": "TODO -- fill in before publish",
+    "hashtags": [
+      "elephants",
+      "animalbehavior",
+      "animalcognition",
+      "cynthiamoss",
+      "evolutionarybiology",
+      "wildlife"
+    ],
+    "slides": [
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      }
+    ]
+  },
+  "reel": {
+    "hook": "TODO -- fill in before publish",
+    "beats": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "006-elephant-grief",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}

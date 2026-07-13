@@ -1,0 +1,136 @@
+{
+  "title": "Why Do You Trust a Face in Under a Second?",
+  "slug": "why-we-trust-faces",
+  "status": "draft",
+  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
+  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "category": "Human Behaviour",
+  "summary": "Princeton psychologists Janine Willis and Alexander Todorov studied how the human brain forms trustworthiness judgments from a face in 100 milliseconds. This is the psychology of first impressions and facial trust.",
+  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "Todorov's lab didn't stop at a tenth of a second.",
+    "And this isn't just a lab curiosity that stays inside a lab.",
+    "There's a deeper question underneath all of this, and Todorov's own lab went looking for it too: if a tenth of a second is enough, what is the brain actually reading in that glimpse?",
+    "Here's the strange part.",
+    "And the model held up under a real test."
+  ],
+  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "sources": [
+    {
+      "title": "Willis, J. & Todorov, A. (2006). First Impressions: Making Up Your Mind After a 100-ms Exposure to a Face. Psychological Science, 17(7), 592-598.",
+      "publisher": "100ms face exposure judgments correlate highly with unlimited-time judgments; more time increases confidence, not accuracy of the verdict itself",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16866745/"
+    },
+    {
+      "title": "Todorov, A., Pakrashi, M. & Oosterhof, N.N. (2009). Evaluating Faces on Trustworthiness After Minimal Time Exposure. Social Cognition, 27(6), 813-833.",
+      "publisher": "Trustworthiness judgments begin forming at exposure times as low as 17-67ms",
+      "url": "https://doi.org/10.1521/soco.2009.27.6.813"
+    },
+    {
+      "title": "Todorov, A., Mandisodza, A.N., Goren, A. & Hall, C.C. (2005). Inferences of Competence From Faces Predict Election Outcomes. Science, 308(5728), 1623-1626.",
+      "publisher": "Facial-competence judgments from a 1-second exposure predicted real congressional election outcomes at ~70% accuracy (68.8% Senate, 72.4% House)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15947187/"
+    },
+    {
+      "title": "Todorov, A. (2017). Face Value: The Irresistible Influence of First Impressions. Princeton University Press.",
+      "publisher": "\"Irresistible but faulty\" framing -- judgments are automatic/hard to override but not reliable indicators of actual character; sourced from the researcher's own stated conclusion",
+      "url": "https://press.princeton.edu/books/hardcover/9780691167497/face-value"
+    },
+    {
+      "title": "Oosterhof, N.N. & Todorov, A. (2008). The Functional Basis of Face Evaluation. Proceedings of the National Academy of Sciences, 105(32), 11087-11092.",
+      "publisher": "Two-dimensional model of face evaluation (trustworthiness/valence + dominance); trustworthy-rated faces structurally resemble happy expressions and untrustworthy-rated faces resemble angry expressions on neutral faces (\"emotion overgeneralization\"); model cross-validated on newly generated faces rated by separate participants",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18685089/"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Do You Trust a Face in Under a Second? | Hardwired Stickman",
+    "description": "Princeton psychologists Janine Willis and Alexander Todorov studied how the human brain forms trustworthiness judgments from a face in 100 milliseconds. This is the psychology of first impressions and facial trust.",
+    "keywords": [
+      "psychology",
+      "science",
+      "human psychology",
+      "first impressions",
+      "facial trustworthiness",
+      "Alexander Todorov",
+      "Janine Willis",
+      "Nikolaas Oosterhof",
+      "face perception",
+      "evolutionary psychology",
+      "snap judgments",
+      "emotion overgeneralization",
+      "cognitive science",
+      "how the brain works",
+      "trust"
+    ]
+  },
+  "pinterest": {
+    "board": "Human Behaviour Explained",
+    "hooks": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "description": "TODO -- fill in before publish"
+  },
+  "instagram": {
+    "caption": "TODO -- fill in before publish",
+    "hashtags": [
+      "psychology",
+      "firstimpressions",
+      "todorov",
+      "faceperception",
+      "neuroscience",
+      "trust"
+    ],
+    "slides": [
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      }
+    ]
+  },
+  "reel": {
+    "hook": "TODO -- fill in before publish",
+    "beats": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "003-why-we-trust-faces",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}

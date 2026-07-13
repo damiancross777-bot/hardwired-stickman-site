@@ -1,0 +1,136 @@
+{
+  "title": "Why Do Crows Remember One Human Face for Years?",
+  "slug": "crows-grudges",
+  "status": "draft",
+  "published_at": "TODO -- fill in before publish -- ISO datetime, set on actual publish",
+  "updated_at": "TODO -- fill in before publish -- ISO datetime",
+  "category": "Animal Behaviour",
+  "summary": "Wildlife biologist John Marzluff's mask experiments at the University of Washington reveal how crows recognize individual human faces, remember threats for years, and teach that danger socially across generations — a landmark case in animal cognition and corvid behavior.",
+  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "Seventeen years of memory in an animal that doesn't live much longer than that is remarkable on its own.",
+    "And there's a neurological answer for how a brain this different from ours can pull off something this similar to what we do.",
+    "Crows are not the only corvid that does this.",
+    "But the ravens added a twist Marzluff's crows had not shown.",
+    "That detail changes how we should read the crows too."
+  ],
+  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "sources": [
+    {
+      "title": "Marzluff, J.M., Walls, J., Cornell, H.N., Withey, J.C. & Craig, D.P. (2010). Lasting recognition of threatening people by wild American crows. Animal Behaviour, 79(3), 699-707.",
+      "publisher": "2006-launched mask experiment; dangerous vs. neutral mask; crows scolded the dangerous mask regardless of wearer; recognition persisted at least 2.7 years",
+      "url": "https://doi.org/10.1016/j.anbehav.2009.12.022"
+    },
+    {
+      "title": "University of Washington, Urban@UW. 'Crows hold grudges against individual humans for up to 17 years.' Institutional news coverage of the Marzluff mask-recognition research program.",
+      "publisher": "Neutral mask resembled Dick Cheney (then-sitting VP); scolding behavior finally stopped September 2023, seventeen years after the study started",
+      "url": "https://urban.uw.edu/news/crows-hold-grudges-against-individual-humans-for-up-to-17-years/"
+    },
+    {
+      "title": "Cornell, H.N., Marzluff, J.M. & Pecoraro, S. (2012). Social learning spreads knowledge about dangerous humans among American crows. Proceedings of the Royal Society B: Biological Sciences, 279(1728), 499-508.",
+      "publisher": "Social transmission -- crows never personally trapped, including those born after the original event, still scolded the mask",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21715408/"
+    },
+    {
+      "title": "Marzluff, J.M., Miyaoka, R., Minoshima, S. & Cross, D.J. (2012). Brain imaging reveals neuronal circuitry underlying the crow's perception of human faces. Proceedings of the National Academy of Sciences, 109(39), 15912-15917.",
+      "publisher": "PET imaging showing amygdala-analogous crow brain region activation in response to the dangerous face",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22984177/"
+    },
+    {
+      "title": "Blum, C.R., Fitch, W.T. & Bugnyar, T. (2020). Rapid Learning and Long-Term Memory for Dangerous Humans in Ravens (Corvus corax). Frontiers in Psychology, 11, 581794.",
+      "publisher": "Cross-species replication in ravens: captive ravens learned to distinguish a dangerous mask (paired with a dead raven) from a neutral mask, some after a single exposure, with discrimination persisting up to 4 years; alarm-calling intensity correlated with social dominance rather than memory strength, suggesting a status-signaling function alongside the threat-memory function",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7609869/"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Do Crows Remember One Human Face for Years? | Hardwired Stickman",
+    "description": "Wildlife biologist John Marzluff's mask experiments at the University of Washington reveal how crows recognize individual human faces, remember threats for years, and teach that danger socially across generations — a landmark case in animal cognition and corvid behavior.",
+    "keywords": [
+      "animal behavior",
+      "animal cognition",
+      "crows",
+      "corvids",
+      "John Marzluff",
+      "crow facial recognition",
+      "ravens",
+      "evolutionary biology",
+      "biology",
+      "science",
+      "University of Washington",
+      "bird intelligence",
+      "convergent evolution",
+      "avian brain",
+      "threat memory"
+    ]
+  },
+  "pinterest": {
+    "board": "Animal Behaviour Explained",
+    "hooks": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "description": "TODO -- fill in before publish"
+  },
+  "instagram": {
+    "caption": "TODO -- fill in before publish",
+    "hashtags": [
+      "crows",
+      "animalcognition",
+      "corvids",
+      "marzluff",
+      "animalbehavior",
+      "biology"
+    ],
+    "slides": [
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      },
+      {
+        "heading": "TODO -- fill in before publish",
+        "body": "TODO -- fill in before publish"
+      }
+    ]
+  },
+  "reel": {
+    "hook": "TODO -- fill in before publish",
+    "beats": [
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish",
+      "TODO -- fill in before publish"
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "005-crows-grudges",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}
