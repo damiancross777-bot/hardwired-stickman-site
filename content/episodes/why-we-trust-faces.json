@@ -6,19 +6,19 @@
   "updated_at": "TODO -- fill in before publish -- ISO datetime",
   "category": "Human Behaviour",
   "summary": "Princeton psychologists Janine Willis and Alexander Todorov studied how the human brain forms trustworthiness judgments from a face in 100 milliseconds. This is the psychology of first impressions and facial trust.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "A 2006 Princeton study found that a 100-millisecond glimpse of an unfamiliar face -- a tenth of a second -- produces a trustworthiness judgment that correlates strongly with the verdict people reach given unlimited time to look. More time doesn't change the verdict, it just makes people more confident they were right. Follow-up research mapped the judgment down to two dimensions -- how capable and how threatening-or-friendly a face looks -- and found trustworthy-rated faces structurally resemble a happy expression while untrustworthy ones resemble an angry one, even on a completely neutral face. The verdict is automatic and hard to override, but it isn't reliably true about the person behind it.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT15M30S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "Todorov's lab didn't stop at a tenth of a second.",
-    "And this isn't just a lab curiosity that stays inside a lab.",
-    "There's a deeper question underneath all of this, and Todorov's own lab went looking for it too: if a tenth of a second is enough, what is the brain actually reading in that glimpse?",
-    "Here's the strange part.",
-    "And the model held up under a real test."
+    "A 100-millisecond glimpse of an unfamiliar face produces a trustworthiness verdict that correlates strongly with judgments made with unlimited time to look.",
+    "Trustworthiness judgments were still detectably forming at exposure times as short as 17-67 milliseconds -- near the physical limit of how fast a screen can display an image.",
+    "Shown competing candidate faces for one second, participants picked the actual winner of real U.S. congressional elections roughly seven times out of ten.",
+    "Faces rated as trustworthy structurally resemble a happy expression, and faces rated as untrustworthy resemble an angry one, even when the face itself is completely neutral.",
+    "Alexander Todorov's own framing: these snap judgments are 'irresistible but faulty' -- automatic and impossible to simply choose not to make, but not reliable evidence of a person's actual character."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## A verdict before a single word\n\nYou meet someone for the first time. Before they've said a word, before you know their name, you already have a feeling about them -- whether you trust this person, at least a little. It feels like that judgment builds up over the conversation. It doesn't. It's already made before the conversation starts.\n\n## How little information does a first impression actually need?\n\nA tenth of a second isn't enough time to consciously process much of anything -- it's roughly the time it takes a camera shutter to click. In that window you haven't heard a voice or watched a single choice being made. All you've had is a glimpse of a face. So the real question isn't how first impressions form. It's how little a first impression actually needs: what's the floor?\n\n## Finding the floor\n\nIn 2006, Princeton psychologists Janine Willis and Alexander Todorov set out to find it directly. Across five experiments covering different traits -- attractiveness, likeability, competence, trustworthiness, and aggressiveness -- participants saw unfamiliar faces for just 100 milliseconds and rated them immediately. Other groups saw the same faces for half a second, a full second, or with no time limit at all.\n\nJudgments made after that 100-millisecond glimpse correlated strongly with judgments made by people who could look as long as they wanted. More time didn't meaningfully change the verdict -- it just made people more confident their instant judgment had been right. Trustworthiness behaved the same way as every other trait tested: a tenth of a second was already enough.\n\n## Pushing the floor even lower\n\nA 2009 follow-up narrowed the exposure time further, testing judgments at 17, 33, 50, and 67 milliseconds -- timeframes close to the physical limit of how fast a screen can display and remove an image. Trustworthiness judgments were still forming in that range, not fully stable, but starting. Whatever does this work in the brain isn't waiting for a clear look.\n\nThis isn't confined to the lab, either. A 2005 study used real U.S. congressional election candidates -- people participants had never seen. Shown a pair of faces for one second and asked only which looked more competent, participants picked the actual election winner roughly seven times out of ten: 68.8% in Senate races, 72.4% in House races. No policy knowledge, no debate footage -- just a face, for one second, tracking how millions of real voters behaved.\n\n## What the brain is actually reading\n\nA 2008 study mapped exactly which facial features drive the trustworthy-or-not verdict. Using computer-generated faces manipulated feature by feature, the judgment collapsed down to two dimensions: how physically capable a face looks, and how threatening or friendly it looks. Trustworthiness sits almost entirely on that second dimension.\n\nHere's the strange part: faces rated as trustworthy don't have some feature that reads as honest -- they structurally resemble a happy expression, echoing the shape of a smile even on a face that isn't smiling. Faces rated as untrustworthy structurally resemble an angry one: lowered brows, tightened features, on a completely neutral face. Researchers called this emotion overgeneralization -- a system built to read real, moving emotional expressions gets triggered by a static face that merely resembles one. The model held up when tested on entirely new generated faces, rated by separate participants who landed close to where the model predicted.\n\n## Irresistible, but not accurate\n\nTodorov has spent much of his career pushing one conclusion: these judgments are irresistible, but faulty. Irresistible means exactly that -- you cannot choose not to form one; it happens automatically, underneath conscious control. Faulty means the judgment isn't reliably telling you anything true about the person in front of you. What you're detecting isn't character. It's a pattern of features your brain has learned to associate with trust, whether or not that association has anything real behind it in this specific case.\n\nThat distinction matters because this fast, automatic system doesn't stay confined to first dates. The same split-second facial read quietly influences hiring decisions, jury perceptions, and -- as the election study showed -- how people vote, in situations where nobody making the judgment realizes a face is doing any of the work.",
   "sources": [
     {
       "title": "Willis, J. & Todorov, A. (2006). First Impressions: Making Up Your Mind After a 100-ms Exposure to a Face. Psychological Science, 17(7), 592-598.",
@@ -71,14 +71,14 @@
   "pinterest": {
     "board": "Human Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Do You Trust a Face in Under a Second?",
+      "Your Brain Judges Trust in 100 Milliseconds",
+      "This Face Shape Reads as Trustworthy -- Why?"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "A Princeton study found people form trustworthiness judgments from a face in just 100 milliseconds -- and more time to look barely changes the verdict. An illustrated, research-backed explainer on the psychology of split-second first impressions."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "You decide whether to trust a face in a tenth of a second -- before they've said a word. Researchers found the exact facial pattern your brain is reading, and it isn't character. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "psychology",
       "firstimpressions",
@@ -89,42 +89,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DO YOU TRUST A FACE IN UNDER A SECOND?",
+        "body": "The verdict is made before the conversation even starts."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "Trust builds up as you talk to someone. Actually, it's already decided."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "A 100-MILLISECOND GLIMPSE IS ENOUGH",
+        "body": "A 2006 study found split-second face judgments barely change with more time to look."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "IT WORKS DOWN TO 17 MILLISECONDS",
+        "body": "Near the physical limit of how fast a screen can even show an image."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "IT PREDICTED REAL ELECTIONS",
+        "body": "A one-second glance at candidate faces predicted real election winners ~70% of the time."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "YOUR BRAIN IS READING A SMILE THAT ISN'T THERE",
+        "body": "Trustworthy-rated faces structurally resemble a happy expression, even when neutral."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "You decide whether to trust a stranger's face in a tenth of a second.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman glancing at a face for a split second.",
+      "Reveal a 100-millisecond glimpse produces the same verdict as unlimited time.",
+      "Explain the brain is reading facial structure that resembles a smile or a scowl.",
+      "Close on the twist: irresistible judgment, but not actually accurate."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },

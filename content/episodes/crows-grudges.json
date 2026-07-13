@@ -6,19 +6,19 @@
   "updated_at": "TODO -- fill in before publish -- ISO datetime",
   "category": "Animal Behaviour",
   "summary": "Wildlife biologist John Marzluff's mask experiments at the University of Washington reveal how crows recognize individual human faces, remember threats for years, and teach that danger socially across generations — a landmark case in animal cognition and corvid behavior.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "In a mask experiment John Marzluff's team started at the University of Washington in 2006, wild crows learned to recognize a single specific human face associated with danger, scolded it on sight for at least seventeen years, and taught the association socially to crows who were never trapped themselves -- some not even born yet at the time. PET imaging later showed an amygdala-like region of the crow brain activating in response to the threatening face, evolution's answer to the same problem mammalian brains solve, arrived at independently on a completely separate branch of life.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT16M0S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "Seventeen years of memory in an animal that doesn't live much longer than that is remarkable on its own.",
-    "And there's a neurological answer for how a brain this different from ours can pull off something this similar to what we do.",
-    "Crows are not the only corvid that does this.",
-    "But the ravens added a twist Marzluff's crows had not shown.",
-    "That detail changes how we should read the crows too."
+    "Wild crows trapped once while a researcher wore a specific mask scolded that same mask -- regardless of who wore it -- for at least seventeen years afterward.",
+    "Crows who were never personally trapped, including some born after the original event, still scolded the mask -- the threat was taught socially across generations.",
+    "PET imaging found an amygdala-analogous region of the crow brain activating in response to the threatening face, the same solution mammal brains evolved independently.",
+    "Captive ravens replicated the effect with a different threat cue, some learning to distinguish a dangerous mask after a single exposure and retaining it four years later.",
+    "In ravens, the loudest alarm-callers weren't necessarily the ones with the strongest memories -- they tended to be the most socially dominant birds, suggesting scolding is partly a status display."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## Seventeen years of being recognized\n\nYou're walking across a college campus. Dozens of people are walking the same path. And out of all of them, the crows overhead lock onto exactly one person -- diving, scolding, screaming from the trees -- while everyone else walks past completely ignored.\n\nThat's not a story. It happened, for real, at the University of Washington, for seventeen years.\n\n## A brain smaller than a thumb, doing something we struggle with\n\nA crow's brain weighs a few grams. And somewhere in that small a package, it has to pick one specific human face out of thousands and remember that this particular arrangement of features means danger -- not for a day, not for a season, but for years. Recognizing individual human faces isn't trivial even for us; we dedicate a huge amount of brain tissue specifically to it. So the real question is how a brain that small manages to single out one specific person, correctly, years after a single encounter.\n\n## The mask experiment\n\nIn 2006, wildlife biologist John Marzluff and his team trapped wild crows at five sites around Seattle, banded them, and released them -- all while wearing one specific, unique \"dangerous\" mask. A separate, neutral-looking mask was worn by people who only fed the crows, never trapping or handling them.\n\nIn the years that followed, researchers and random volunteers who had no idea what the mask meant walked across campus wearing it. Crows scolded, mobbed, and dive-bombed the dangerous mask specifically, regardless of who wore it, while the neutral mask -- worn by different people, including one made to resemble the sitting Vice President at the time -- was left alone. A 2010 paper confirmed recognition held for at least 2.7 years. The project itself kept going: scolding didn't finally stop until September 2023, seventeen years after the first crow was trapped.\n\n## Taught, not just remembered\n\nA 2012 follow-up study found something stranger: some of the crows scolding the mask had never been trapped themselves, and some hadn't even been born yet when the original crows were caught. They'd learned the threat secondhand, from parents and the rest of the flock, picking up the same alarm response without personally experiencing the danger. The association wasn't just stored in individual memory -- it was being taught, socially, across generations.\n\nLater in 2012, PET imaging of crow brains viewing the dangerous face showed a region functioning the way the amygdala functions in mammals, handling threat-linked emotional memory. Birds and mammals split from a common ancestor roughly three hundred million years ago. Their brains aren't built the same way structurally -- and yet evolution arrived at a strikingly similar solution to the same problem, twice, independently.\n\n## It's not just crows\n\nA 2020 study ran a similar mask experiment on captive ravens -- a different corvid species, separated from crows by tens of millions of years of independent evolution. One mask was paired with a dead raven, an unmistakable danger signal; a neutral mask had nothing attached. Several ravens learned the difference after a single exposure, and some were still telling the masks apart four years later.\n\nBut the ravens added a twist: the loudest, most consistent alarm-callers weren't necessarily the ones with the strongest memories -- they tended to be the most socially dominant birds. Calling out a threat wasn't just information for the flock's benefit; it was also a demonstration of status. That reframes the Seattle crows too -- they weren't just reacting privately to a remembered face, they were broadcasting it, every time, in front of the flock.\n\n## What the word \"grudge\" gets right, and what it doesn't\n\nWhat Marzluff's studies demonstrate, rigorously, is that crows can identify a specific human face, retain that identification for years, and transmit it socially to crows who never had the original experience. What the studies can't tell us is whether anything resembling human resentment sits underneath that -- some subjective sense of being wronged, nursed over time. What's been measured is a persistent threat classification, not necessarily an emotional grudge in the human sense. That's still remarkable on its own; it just isn't quite the same claim.\n\nThe distributed part is worth sitting with, too. If a crow population can build and pass down a shared map of dangerous humans, the specific person being scolded on any given day might be facing birds who were never personally involved in whatever happened years earlier. The behavior outlives the individual crows who witnessed it -- it's institutional.",
   "sources": [
     {
       "title": "Marzluff, J.M., Walls, J., Cornell, H.N., Withey, J.C. & Craig, D.P. (2010). Lasting recognition of threatening people by wild American crows. Animal Behaviour, 79(3), 699-707.",
@@ -71,14 +71,14 @@
   "pinterest": {
     "board": "Animal Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Do Crows Remember One Human Face for Years?",
+      "This Crow Study Ran for Seventeen Years",
+      "Crows Teach Their Kids Which Humans Are Dangerous"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "A single mask experiment at the University of Washington ran for seventeen years -- wild crows recognized one specific human threat and taught it to crows who were never trapped themselves. An illustrated, research-backed look at corvid facial memory."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "One masked researcher trapped some crows in 2006. Seventeen years later, crows who weren't even born yet were still scolding that mask on sight. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "crows",
       "animalcognition",
@@ -89,42 +89,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DO CROWS REMEMBER ONE HUMAN FACE FOR YEARS?",
+        "body": "A single 2006 encounter triggered seventeen years of being recognized."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "Crows are just naturally wary of people. That's not the whole story."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE MASK EXPERIMENT",
+        "body": "Researchers wore one specific mask while trapping crows -- then tracked how the crows responded for years."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "RECOGNITION HELD FOR 17 YEARS",
+        "body": "Random volunteers wearing the same mask were mobbed and scolded, regardless of who was underneath it."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "TAUGHT, NOT JUST REMEMBERED",
+        "body": "Crows never trapped themselves -- some not even born yet -- still scolded the mask, learned from the flock."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "AN AMYGDALA-LIKE BRAIN REGION LIT UP",
+        "body": "PET scans found crow brains process the threat the same way mammal brains do -- evolved independently."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "One masked encounter in 2006 -- and crows were still scolding that mask 17 years later.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman researcher trapping a crow while wearing a specific mask.",
+      "Reveal crows mobbing anyone wearing that same mask, years later.",
+      "Explain crows never personally trapped still learned to fear it -- taught by the flock.",
+      "Close on the brain scan: an amygdala-like region lighting up at the threat."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },

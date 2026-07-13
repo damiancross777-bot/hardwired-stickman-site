@@ -6,18 +6,18 @@
   "updated_at": "TODO -- fill in before publish -- ISO datetime",
   "category": "Human Behaviour",
   "summary": "In 2003, psychologist Naomi Eisenberger, with Matthew Lieberman and Kipling Williams, used fMRI and the Cyberball exclusion game to show that social rejection activates the dorsal anterior cingulate cortex — the same brain region tied to the distress of physical pain.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "Social rejection activates the dorsal anterior cingulate cortex -- the same brain region tied to the distress of physical pain, not just its poetic description. A landmark 2003 fMRI study using a simple ball-tossing game found that being excluded lit up the same circuitry as a physical wound, and a 2010 trial found that an ordinary over-the-counter painkiller measurably reduced how much rejection hurt. Evolution appears to have repurposed the body's injury-detection system to track social loss, rather than building a separate one from scratch.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT16M0S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "This wasn't actually the first hint that social separation and physical pain might share circuitry — it was just the first time anyone could see it directly in a living human brain.",
-    "There's a theory for why evolution would build it this way, proposed by researcher Jaak Panksepp: rather than building an entirely separate alarm system for social loss, evolution took a shortcut.",
-    "And here's the detail that turns this from an interesting brain-scan finding into something almost unsettling: if the systems really do overlap, a drug built to dull physical pain should, at least in theory, dull social pain too.",
-    "An over-the-counter painkiller, taken for something with no wound, no injury, no physical cause at all — and it measurably worked anyway."
+    "Excluding someone from a simple ball-tossing game activated the dorsal anterior cingulate cortex -- the same brain region that flags the distress of physical pain, not just its sensory location.",
+    "The overlap isn't unique to humans: isolated baby birds and separated squirrel monkeys show distress responses tied to the same cingulate-cortex circuitry.",
+    "Psychologist Jaak Panksepp proposed evolution didn't build a separate alarm system for social loss -- it repurposed the existing physical-pain system for a second job.",
+    "In a 2010 trial, participants who took acetaminophen daily for three weeks reported measurably less social pain and showed reduced brain activity during a simulated exclusion task."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## The word your brain reaches for\n\nSomeone you were counting on doesn't show up. A message goes unanswered for days. A group makes plans, and somehow you're not in them. None of it touches your body -- nothing bruised, nothing broken. And yet the word people reach for, across unrelated languages, is the same word used for a burned hand or a stubbed toe: it hurt.\n\nThat's not just poetic habit. It turns out the brain isn't reaching for a metaphor when it does this.\n\n## A pain system with no wound to point to\n\nPhysical pain and emotional pain are supposed to be separate systems -- one protects the body from tissue damage, the other is supposed to live entirely in thought and memory. But the cross-linguistic pattern of borrowing injury vocabulary for social loss is the kind of thing that usually means something real is going on underneath it. So researchers went looking for a literal answer: does rejection use the same physical machinery in the brain that an actual injury does?\n\n## What a simple game of catch revealed\n\nIn 2003, psychologist Naomi Eisenberger, with Matthew Lieberman and Kipling Williams, put people in an fMRI scanner and had them play Cyberball -- a simple, on-screen game of catch with two other players the participant believed were real. Partway through, the other two players simply stopped throwing the ball back. No explanation, just left out.\n\nDuring that exclusion, the dorsal anterior cingulate cortex -- the region that governs the distressing, unpleasant quality of physical pain, not its sensory detection -- became more active, and the more active it got, the more distress people reported. A second region, tied to regulating and dampening pain, also activated; people whose regulation response worked harder reported less distress. The brain wasn't just reacting to a game. It was running something that looked, structurally, like a pain response.\n\n## Borrowed machinery, not a coincidence\n\nThis wasn't actually the first hint of the overlap -- it was just the first time anyone could see it directly in a living human brain. Decades earlier, researchers had noticed that isolated baby birds produce distress calls that behave neurologically like pain responses, and that damaging the cingulate cortex in squirrel monkeys reduced their distress calls when separated from their group. The tools to connect it to human physical pain directly didn't exist yet -- Eisenberger's study was the first time the overlap could actually be seen rather than just suspected.\n\nPsychologist Jaak Panksepp proposed a reason evolution would build it this way: rather than inventing an entirely separate alarm system for social loss, it borrowed the computations already sitting there for physical pain. For a social species, isolation historically meant reduced protection and reduced survival odds -- serious enough to justify reusing an existing warning system rather than building a new one from scratch.\n\nThe detail that turns this from an interesting brain-scan finding into something stranger: if the systems really do overlap, a drug built to dull physical pain should, in theory, dull social pain too. In 2010, C. Nathan DeWall and colleagues tested exactly that -- participants took acetaminophen daily for three weeks, rating their social pain each evening. The acetaminophen group reported measurably less hurt feelings than a placebo group, and a follow-up scan showed reduced activity in the same regions Eisenberger's study had identified seven years earlier. An over-the-counter painkiller, taken for something with no wound at all, measurably worked anyway.\n\n## What's still being argued over\n\nThe finding hasn't gone unchallenged. Some researchers point out that being excluded in Cyberball doesn't just hurt socially -- it also violates an expectation, and a nearby but distinct part of the cingulate cortex tracks that kind of surprise separately from social rejection itself. Some of what Eisenberger's team measured may be surprise rather than pain, or a blend of both.\n\nThe acetaminophen finding has a real limitation too: it came from three weeks of consistent daily dosing, and later attempts with a single dose didn't reproduce the same neural effect. That doesn't undo the original result -- it narrows it. Whatever is happening seems to build up over sustained use, not switch on with one pill.",
   "sources": [
     {
       "title": "MacDonald, G. & Leary, M.R. (2005). Why does social exclusion hurt? The relationship between social and physical pain. Psychological Bulletin, 131(2), 202-223.",
@@ -85,14 +85,14 @@
   "pinterest": {
     "board": "Human Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Does Rejection Hurt Like a Physical Wound?",
+      "Your Brain Treats Rejection Like an Actual Injury",
+      "A Painkiller Can Measurably Dull Heartbreak"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "Social rejection isn't 'just' emotional -- brain scans show it activates the same region tied to the distress of physical pain. An illustrated, research-backed explainer on why heartbreak really does hurt."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "Rejection lighting up the same brain region as a physical wound isn't a metaphor -- it's what a 2003 fMRI study actually found. And a normal painkiller measurably dulled it. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "psychology",
       "neuroscience",
@@ -102,42 +102,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DOES REJECTION HURT LIKE A PHYSICAL WOUND?",
+        "body": "Nothing is bruised or broken -- but your brain treats it like an injury anyway."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "It's 'just' a figure of speech. Turns out it isn't."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "A GAME OF CATCH, RIGGED TO EXCLUDE YOU",
+        "body": "In a 2003 study, being frozen out of a simple ball-tossing game activated the brain's pain-distress circuitry."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE SAME REGION AS A PHYSICAL INJURY",
+        "body": "The dorsal anterior cingulate cortex -- the part that makes pain feel bad, not just detect it."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "NOT JUST HUMANS",
+        "body": "Isolated baby birds and separated squirrel monkeys show distress tied to the same brain circuitry."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "A PAINKILLER MEASURABLY HELPED",
+        "body": "In a 2010 trial, three weeks of acetaminophen reduced both reported social pain and brain activity during exclusion."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "Rejection isn't 'just' emotional -- your brain treats it like an actual wound.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman being frozen out of a simple ball-tossing game.",
+      "Reveal that exclusion lights up the same brain region as physical pain.",
+      "Explain evolution repurposed the pain system rather than building a new one.",
+      "Close on the strange fact: an ordinary painkiller measurably dulled it."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },
