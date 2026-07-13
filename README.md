@@ -205,14 +205,52 @@ Add your public business email
 
 Do not publish with those placeholders still present.
 
-## 11. Folder map
+## 11. Automated go-live scheduling (13 Jul 2026)
+
+An episode can be fully authored ahead of time (status `"draft"`, real `article_markdown`/Pinterest/Instagram content, `youtube_url` still `VIDEO_ID`) and then set to go live automatically once the YouTube upload's own scheduled release time arrives — no manual "flip the switch" step needed on the day.
+
+**How it works:** add a row to `content/publish_schedule.csv`:
+
+```csv
+episode_slug,scheduled_at,youtube_url
+why-dogs-tilt-their-heads,2026-07-27T18:00:00+10:00,https://www.youtube.com/watch?v=XXXXXXXXXXX
+```
+
+- `episode_slug` must match an existing `content/episodes/<slug>.json` (already authored via `import_episode.py`, just still in draft).
+- `scheduled_at` is the exact time you scheduled the video to go public on YouTube.
+- `youtube_url` is the real video URL — YouTube assigns this immediately on upload, even while the video is still scheduled/private, so you can add this row as soon as you've uploaded and scheduled the video, well before it airs.
+
+A Windows Scheduled Task (`HardwiredStickman-PublishScheduler`, checks every 10 minutes) runs `scripts/publish_scheduler.py`, which waits until **30 minutes + a small randomized jitter (0-15 min) after `scheduled_at`** before doing anything — this guarantees the site never links to a video before YouTube's own scheduled release has actually gone live, and the jitter avoids every episode going live at an identical, obviously-automated offset. Once that time passes, it automatically:
+
+1. Extracts the video ID from `youtube_url`
+2. Patches `youtube_url` / `youtube_id` / `thumbnail_url` / `published_at` in the episode JSON
+3. Flips `status` from `"draft"` to `"published"`
+4. Rebuilds the site (`validate_content.py` → `make_social.py` → `build_site.py`)
+5. Commits and pushes — Cloudflare Pages auto-deploys from there
+
+Everything is logged to `state/publish_schedule.log` (gitignored, local only) and tracked per-slug in `state/publish_schedule_state.json` so re-running the check is always safe — a row is only ever fired once.
+
+**Managing the task:**
+
+```powershell
+Get-ScheduledTask -TaskName "HardwiredStickman-PublishScheduler"      # check status
+Start-ScheduledTask -TaskName "HardwiredStickman-PublishScheduler"    # trigger a check now
+Disable-ScheduledTask -TaskName "HardwiredStickman-PublishScheduler"  # pause without deleting
+Unregister-ScheduledTask -TaskName "HardwiredStickman-PublishScheduler" -Confirm:$false  # remove entirely
+```
+
+`scripts/publish_scheduler.py --dry-run` computes/patches everything except the rebuild+push step — useful for testing a new row without risking a bad push.
+
+## 12. Folder map
 
 ```text
 content/
   site.json
   episodes/
+  publish_schedule.csv    <- go-live automation input, see Sec 11
 scripts/
-  import_episode.py    <- pulls from ../episodes/<ep>/ (production pipeline)
+  import_episode.py       <- pulls from ../episodes/<ep>/ (production pipeline)
+  publish_scheduler.py    <- go-live automation, run by Windows Task Scheduler
   validate_content.py
   make_social.py
   build_site.py
@@ -220,6 +258,7 @@ scripts/
 site/
   templates/
   static/
+state/                    <- gitignored: publish_schedule_state.json, publish_schedule.log
 output/
   social/
 public/
@@ -228,13 +267,12 @@ setup.ps1
 new-episode.ps1
 ```
 
-`output/`, `public/` and `.venv/` are generated/local and intentionally excluded from Git. Cloudflare builds `public/` fresh on every deploy.
+`output/`, `public/`, `state/` and `.venv/` are generated/local and intentionally excluded from Git. Cloudflare builds `public/` fresh on every deploy.
 
-## 12. Optional next upgrades
+## 13. Optional next upgrades
 
 - Add automatic Instagram Graph API publishing.
-- Add Pinterest API publishing after production access is approved.
+- Add Pinterest API publishing after production access is approved — Trial-access testing in progress as of 13 Jul 2026.
 - Add an email newsletter.
 - Add a client-side search interface using `search-index.json`.
 - Add source-validation checks against DOI and publication metadata.
-- Task Scheduler automation — deliberately out of scope for this first iteration.

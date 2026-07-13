@@ -6,3 +6,5 @@ Thumbs.db
 public/
 output/
 .env
+state/
+*.log
