@@ -6,19 +6,19 @@
   "updated_at": "TODO -- fill in before publish -- ISO datetime",
   "category": "Animal Behaviour",
   "summary": "A 2021 Animal Cognition study by Andrea Sommese, Claudia Fugazza, Shany Dror and Ádám Miklósi links the dog head tilt to word recognition in Gifted Word Learner border collies, plus Attila Andics' fMRI work on canine speech processing.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "A 2021 study found that dogs tilt their heads specifically when they hear a word they've actually learned the meaning of -- dogs who had learned individual toy names tilted frequently when asked to fetch them, while dogs without that vocabulary barely tilted at all. Among rare 'Gifted Word Learner' dogs with unusually large vocabularies, the tilt appeared on 43% of trials versus just 2% for typical dogs, and each dog's tilt direction stayed consistent across months. The tilt tracks genuine word recognition, not general attentiveness or affection.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT15M30S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "A related comparison makes the size of this effect hard to dismiss.",
-    "That term, Gifted Word Learner, isn't a casual label.",
-    "That same research group also tested how long the learning actually lasts.",
-    "Put those two findings together and the picture gets sharper.",
-    "There's a plausible reason this connects to something deeper in how dogs process language at all."
+    "In a 2021 study, dogs that had learned an object's individual name tilted their heads frequently when asked to fetch it; dogs without that vocabulary barely tilted at all.",
+    "Among rare 'Gifted Word Learner' dogs, the tilt appeared on roughly 43% of trials, versus about 2% for typical dogs -- a large, specific difference tied to vocabulary.",
+    "A two-year worldwide search found only about fifteen Gifted Word Learner dogs, every one a border collie, each already knowing more than two dozen toy names before testing began.",
+    "Without practice, those dogs' name-recall accuracy dropped from about 85% right after learning to 61% after one month and 57% after two months -- real but partial memory decay.",
+    "Separate fMRI research found dogs process word meaning in the brain's left hemisphere and tone in the right, then integrate both -- a pattern that closely mirrors human speech processing."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## A word, and the tilt that follows\n\nYou say one specific word to your dog -- not just any sound, but the name of one particular toy. The head tilts, ears shift. For a second, it looks exactly like understanding. It's tempting to read that as a party trick, or as nothing at all. When researchers actually measured when the tilt happens and when it doesn't, they found something far more specific than a random quirk.\n\n## Understanding, or just a cute reflex?\n\nIs the tilt connected to whether the dog actually knows what you're saying, or is it a meaningless gesture that gets rewarded with attention and repeated because it's adorable? To tell the difference, you'd need to compare dogs that clearly understand specific words against dogs that don't, and see whether the tilting tracks that difference.\n\n## What a controlled test found\n\nThat's exactly the study a team of Hungarian researchers ran. Published in 2021 in Animal Cognition, Andrea Sommese and colleagues observed 40 dogs during a specific test: owners asking their dogs, by name, to fetch a particular familiar toy. Some of these dogs had demonstrably learned individual toy names -- they could reliably fetch the right one from several options. Others hadn't learned individual names at all.\n\nThe result was specific. Dogs that had learned an object's name tilted their heads frequently when asked to fetch it. Dogs that hadn't learned individual names essentially didn't tilt in the same situation. For any dog that did tilt, the direction -- left or right -- stayed consistent for that dog across repeated tests, months apart.\n\n## A vocabulary rare enough to matter\n\nAmong dogs known for unusually large vocabularies of object names -- called Gifted Word Learner dogs in this research -- the tilt showed up on roughly 43% of trials. Typical dogs, without that specialized vocabulary, tilted on only about 2% of trials. Whatever the tilt is connected to, it tracks vocabulary specifically, not just the general experience of being spoken to.\n\nGifted Word Learner isn't a casual label. The same researchers spent two years searching worldwide for dogs that had genuinely learned individual object names, not just general commands. They found about fifteen -- worldwide, out of the hundreds of millions of pet dogs on the planet. Every single one found so far has been a border collie, and each already knew more than two dozen toy names before testing began.\n\nThe same research group tested how long the learning actually lasts. Without any practice -- the toys simply put away and not mentioned again -- the dogs were tested one and two months later on names they'd learned just once. Accuracy dropped from around 85% right after learning to about 61% after one month and 57% after two, with a couple of dogs falling to chance by the second test. A real decline, but most of these dogs were still reliably recalling specific object names two months later, with zero rehearsal.\n\n## A deeper connection to how dogs process language\n\nIn 2016, a separate study scanned dogs' brains using fMRI while they listened to recorded speech. Dogs process the actual meaning of a word in the left hemisphere and the tone or intonation in the right hemisphere, then integrate both to interpret what they've heard -- a pattern that closely mirrors how human brains process speech. The head-tilt researchers built their hypothesis directly on this: if meaningful words really are processed asymmetrically, the physical tilt of the head might be connected to that lateralized processing, possibly tied to how the dog directs its attention while interpreting something it recognizes as meaningful.\n\n## What this does and doesn't mean\n\nThe researchers themselves titled the paper an \"exploratory analysis\" -- an early, honest first look at a behavior nobody had systematically studied before, not a confirmed mechanism. Forty dogs is a real sample, but not a large one, and the study establishes a clear association between learned vocabulary and tilting without fully nailing down the exact biological reason.\n\nIt's also worth being precise about scope. This isn't \"dogs tilt their heads because they understand you\" as a blanket statement about all dogs. It's specifically dogs that have learned a particular word, tilting specifically when they hear it. The tilt tracks recognition, not general affection or attentiveness -- which is actually the more interesting finding, not a lesser one.",
   "sources": [
     {
       "title": "Andics, A., Gábor, A., Gácsi, M., Faragó, T., Szabó, D. & Miklósi, Á. (2016). Neural mechanisms for lexical processing in dogs. Science, 353(6303), 1030-1032.",
@@ -76,14 +76,14 @@
   "pinterest": {
     "board": "Animal Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Do Dogs Tilt Their Heads When You Talk?",
+      "Only 15 Dogs in the World Have This Skill",
+      "The Head Tilt Tracks Real Word Recognition"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "A 2021 study found dogs tilt their heads specifically when they hear a word they've actually learned -- not just any sound. An illustrated, research-backed explainer on what the head tilt really means."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "Dogs that had learned a toy's actual name tilted their heads on 43% of trials. Dogs without that vocabulary barely tilted at all. The tilt isn't cuteness -- it's real word recognition. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "dogs",
       "animalcognition",
@@ -94,42 +94,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DO DOGS TILT THEIR HEADS WHEN YOU TALK?",
+        "body": "It looks like understanding. A 2021 study tested whether it actually is."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "Dogs just do it for attention. The data says otherwise."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "A REAL TEST",
+        "body": "Dogs that had learned a toy's actual name tilted often when asked to fetch it."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "43% VS 2%",
+        "body": "Rare 'Gifted Word Learner' dogs tilted on 43% of trials -- typical dogs, only 2%."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "ONLY ~15 DOGS FOUND WORLDWIDE",
+        "body": "A two-year search found just fifteen dogs with this vocabulary -- every one a border collie."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "IT MIRRORS HUMAN SPEECH PROCESSING",
+        "body": "fMRI scans show dogs process word meaning and tone in different hemispheres, like we do."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "A dog's head tilt isn't cuteness -- a 2021 study found it tracks real word recognition.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman dog tilting its head at a specific word.",
+      "Reveal dogs that knew the word's meaning tilted far more often than those that didn't.",
+      "Explain only about fifteen dogs worldwide have this rare vocabulary skill.",
+      "Close on the brain-scan link: dogs process words the way humans do."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },

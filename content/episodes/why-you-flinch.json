@@ -6,19 +6,19 @@
   "updated_at": "TODO -- fill in before publish -- ISO datetime",
   "category": "Human Behaviour",
   "summary": "Neuroscientist Joseph LeDoux mapped the brain's 'low road' — a fast thalamus-to-amygdala fear pathway — explaining why you flinch before conscious awareness forms. A look at the psychology and neuroscience of fear.",
-  "answer": "TODO -- fill in before publish -- one paragraph direct answer; can adapt from script.md's cold open / closing reframe",
+  "answer": "Neuroscientist Joseph LeDoux mapped two separate pathways carrying threat signals to the amygdala: a fast 'low road' running straight from the thalamus to the amygdala, skipping the cortex entirely, and a slower 'high road' that routes through the cortex for actual detail. The low road is crude but fast enough to trigger a flinch before conscious awareness even forms, roughly 250-300 milliseconds ahead of the thought that follows it. Human studies -- including a blind patient whose amygdala still responded to fearful faces he could not consciously see -- confirmed the same cortex-free shortcut exists in people, not just LeDoux's original rats.",
   "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
   "youtube_id": "VIDEO_ID",
-  "duration_iso": "TODO -- fill in before publish -- e.g. PT8M30S, fill in once the final render duration is known",
+  "duration_iso": "PT15M45S",
   "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
   "key_findings": [
-    "LeDoux named these two routes the low road and the high road, in his 1996 book The Emotional Brain, and the names describe exactly what each one does.",
-    "The low road runs directly from the thalamus — a kind of sensory relay station deep in the brain — straight to the amygdala, without ever passing through the cortex at all.",
-    "The high road is that second pathway — thalamus to sensory cortex, where the detail actually gets processed, and only then to the amygdala.",
-    "LeDoux's model was built entirely on rats, which raises an obvious question: does any of this actually hold up in a human brain?",
-    "An even more extreme case makes the same point more directly."
+    "Neuroscientist Joseph LeDoux found threat signals reach the amygdala via two separate pathways that don't arrive at the same time -- not one route, as expected.",
+    "The 'low road' runs directly from the thalamus to the amygdala, skipping the cortex entirely -- fast but crude, able to flag a rough dangerous shape without identifying it.",
+    "The 'high road' routes through the sensory cortex for actual detail before reaching the amygdala -- slower, and the reason you eventually realize you jumped at nothing.",
+    "A 1998 human fMRI study found the amygdala responded more strongly to a fearful face than a happy one, even when participants had no conscious awareness the face had appeared at all.",
+    "A patient whose visual cortex was destroyed by a stroke -- clinically blind in that region -- still guessed fearful vs. happy expressions correctly above chance, with his amygdala activating specifically for the fearful ones."
   ],
-  "article_markdown": "TODO -- fill in before publish -- fresh long-form written article for reading (NOT the spoken script verbatim). Use script.md and sources.json as source material.",
+  "article_markdown": "## The jump that arrives before the thought\n\nSomething moves at the edge of your vision, low, fast, near your foot. Before a single conscious thought forms about what it is, you've already jumped back. Half a second later, the actual thought arrives: it was a hose, or a shadow, or nothing at all. Your body didn't wait for that thought -- it reacted first, and the explanation showed up after.\n\n## Feeling is supposed to come after perceiving\n\nYou'd assume fear works like most experience does: something happens, you perceive it, you interpret it, and only then you feel something, in that order. But a flinch like that doesn't wait for interpretation -- the jump happens before you know what you jumped at. Somewhere in the brain, a threat can be flagged and acted on before the part of you that actually understands what a \"threat\" is has even weighed in.\n\n## Tracing the signal, structure by structure\n\nNeuroscientist Joseph LeDoux spent the late 1980s and 1990s tracing this exact question, mostly using rats. A rat would hear a neutral tone, then immediately receive a mild shock; after enough repetitions, the tone alone was enough to make the rat freeze in fear. That gave LeDoux a clean, repeatable fear response he could trace backward through the brain, structure by structure.\n\nIn a series of papers published between 1988 and 1990, LeDoux found something nobody expected: there wasn't just one route carrying the threat signal to the amygdala. There were two, and they didn't arrive at the same time.\n\n## The low road and the high road\n\nLeDoux named these two routes the low road and the high road in his 1996 book The Emotional Brain. The low road runs directly from the thalamus, a sensory relay station deep in the brain, straight to the amygdala, without ever passing through the cortex -- the part responsible for detailed, conscious processing. Skipping it is what makes the low road so fast. It's also what makes it crude: it can't tell a snake from a hose, but it can notice a long, thin, coiled shape and fire a fear response before any details get sorted out.\n\nThe high road is the second pathway -- thalamus to sensory cortex, where detail gets processed, and only then to the amygdala. It's slower, and it's the reason you eventually realize you jumped at nothing. Becoming consciously aware of a stimulus at all takes roughly 250 to 300 milliseconds, by LeDoux's own account. The low road doesn't wait for that.\n\n## Confirming it in a human brain\n\nLeDoux's model was built entirely on rats. In 1998, a team led by Paul Whalen ran the human test directly, using fMRI to show participants a fearful or happy face for just 33 milliseconds, immediately covered by a neutral face for another 167 milliseconds -- fast enough that the emotional face never reaches conscious perception. Eight of the ten participants reported seeing nothing but neutral faces the entire time. But their amygdalas knew: brain activity was measurably higher when the hidden face was fearful than when it was happy.\n\nAn even more extreme case makes the same point. Researcher Beatrice de Gelder studied a patient known as G.Y., whose visual cortex had been almost completely destroyed by a stroke -- clinically blind in the affected part of his visual field. Shown fearful and happy expressions in that blind region and asked to guess, he guessed correctly far more often than chance would allow, and his amygdala lit up specifically for the fearful ones. Neuroscientists call this affective blindsight: a threat signal reaching the amygdala through a route that never touches the cortex at all, running through much older structures deep in the midbrain and thalamus -- the same kind of ancient shortcut LeDoux mapped in rats, confirmed here in a human brain that had lost the ability to consciously see at all.\n\n## What this circuitry does and doesn't explain\n\nFor years, the low road was often described, including by LeDoux himself early on, as essentially the source of the feeling of fear. In his later work, particularly his 2015 book Anxious, LeDoux pushed back hard on that idea, including his own earlier framing. He drew a sharp line between the unconscious defensive circuit -- the fast, automatic jump-back reflex -- and the conscious, subjective feeling of being afraid. Those aren't the same event measured two different ways; they're genuinely different phenomena. A rat can have its defensive freezing circuit fully intact with no way to know whether it's having anything resembling a subjective experience of dread. The low road explains the flinch. It doesn't, on its own, explain the feeling that shows up after it -- which is part of why exposure therapy targets the fast defensive response specifically, not simply trying to talk someone out of a feeling.",
   "sources": [
     {
       "title": "LeDoux, J.E., Iwata, J., Cicchetti, P. & Reis, D.J. (1988). Different projections of the central amygdaloid nucleus mediate autonomic and behavioral correlates of conditioned fear. Journal of Neuroscience, 8(7), 2517-2529.",
@@ -96,14 +96,14 @@
   "pinterest": {
     "board": "Human Behaviour Explained",
     "hooks": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Why Do You Flinch Before You See the Danger?",
+      "Your Brain Has a Shortcut That Skips Thinking",
+      "A Blind Patient's Amygdala Still Detected Fear"
     ],
-    "description": "TODO -- fill in before publish"
+    "description": "Neuroscientist Joseph LeDoux mapped a fast 'low road' in the brain that triggers a flinch before conscious awareness even forms. An illustrated, research-backed explainer on the neuroscience of instant fear."
   },
   "instagram": {
-    "caption": "TODO -- fill in before publish",
+    "caption": "You jump back before you know what you jumped at -- and there's a real, mapped brain pathway that explains it. A patient who was clinically blind still detected fear correctly, because his amygdala never needed his eyes to work. The full explanation is on Hardwired Stickman.",
     "hashtags": [
       "neuroscience",
       "psychology",
@@ -114,42 +114,42 @@
     ],
     "slides": [
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WHY DO YOU FLINCH BEFORE YOU SEE THE DANGER?",
+        "body": "Your body reacts, then the explanation arrives half a second later."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "You're just jumpy. There's a specific, mapped brain circuit doing this."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "TWO SEPARATE ROUTES TO FEAR",
+        "body": "Neuroscientist Joseph LeDoux found threat signals take two different paths -- and they don't arrive together."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE LOW ROAD SKIPS THINKING ENTIRELY",
+        "body": "Thalamus straight to the amygdala, bypassing the cortex -- fast, but too crude to tell a snake from a hose."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "A BLIND PATIENT STILL 'SAW' FEAR",
+        "body": "A stroke destroyed his visual cortex -- but his amygdala still reacted correctly to fearful faces he couldn't consciously see."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "THE FLINCH ISN'T A MALFUNCTION",
+        "body": "It's a several-hundred-million-year-old bet that being wrong fast beats being right slow."
       },
       {
-        "heading": "TODO -- fill in before publish",
-        "body": "TODO -- fill in before publish"
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
       }
     ]
   },
   "reel": {
-    "hook": "TODO -- fill in before publish",
+    "hook": "You jump back before you even know what you're afraid of -- here's the brain shortcut doing it.",
     "beats": [
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish",
-      "TODO -- fill in before publish"
+      "Show the stickman flinching at a shape near their foot.",
+      "Reveal LeDoux's two pathways: a fast, crude 'low road' and a slow, detailed 'high road'.",
+      "Explain a blind patient's amygdala still detected fear he couldn't consciously see.",
+      "Close on why: being wrong fast beats being right slow."
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },
