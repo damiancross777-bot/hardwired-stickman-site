@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+{% block title %}{{ episode.seo.title }}{% endblock %}
+{% block description %}{{ episode.seo.description }}{% endblock %}
+{% block canonical %}{{ episode.page_url }}{% endblock %}
+{% block social_meta %}
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ episode.seo.title }}">
+<meta property="og:description" content="{{ episode.seo.description }}">
+<meta property="og:url" content="{{ episode.page_url }}">
+<meta property="og:image" content="{{ episode.social_card_url }}">
+<meta name="twitter:card" content="summary_large_image">
+{% endblock %}
+{% block structured_data %}
+{{ super() }}
+<script type="application/ld+json">
+{{ {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": episode.title,
+  "description": episode.summary,
+  "datePublished": episode.published_at,
+  "dateModified": episode.updated_at,
+  "mainEntityOfPage": episode.page_url,
+  "author": {"@type": "Organization", "name": site.author_name},
+  "publisher": {"@type": "Organization", "name": site.site_name},
+  "image": episode.social_card_url
+} | tojson }}
+</script>
+<script type="application/ld+json">
+{{ {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": episode.title,
+  "description": episode.summary,
+  "thumbnailUrl": [episode.thumbnail_url],
+  "uploadDate": episode.published_at,
+  "duration": episode.duration_iso,
+  "embedUrl": "https://www.youtube.com/embed/" ~ episode.youtube_id,
+  "contentUrl": episode.youtube_url
+} | tojson }}
+</script>
+{% endblock %}
+{% block content %}
+<article class="article">
+  <header class="article-header">
+    <a class="category-pill" href="/{{ episode.category | slug }}/">{{ episode.category }}</a>
+    <h1>{{ episode.title }}</h1>
+    <p class="dek">{{ episode.summary }}</p>
+    <time datetime="{{ episode.published_at }}">Published {{ episode.published_at | date }}</time>
+  </header>
+
+  {% if episode.youtube_id and episode.youtube_id != "VIDEO_ID" %}
+  <div class="video-frame">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ episode.youtube_id }}"
+      title="{{ episode.title }}" loading="lazy" allowfullscreen></iframe>
+  </div>
+  {% else %}
+  <div class="video-placeholder">
+    <strong>YouTube embed placeholder</strong>
+    <p>Replace <code>VIDEO_ID</code> in the episode JSON when the video is published.</p>
+  </div>
+  {% endif %}
+
+  <section class="direct-answer">
+    <p class="eyebrow">THE DIRECT ANSWER</p>
+    <p>{{ episode.answer }}</p>
+  </section>
+
+  <section>
+    <h2>Three key findings</h2>
+    <ol class="findings">
+      {% for finding in episode.key_findings %}
+      <li><span>{{ "%02d" | format(loop.index) }}</span><p>{{ finding }}</p></li>
+      {% endfor %}
+    </ol>
+  </section>
+
+  <div class="prose">{{ episode.article_html | safe }}</div>
+
+  <section class="sources">
+    <h2>Sources and further reading</h2>
+    <ol>
+      {% for source in episode.sources %}
+      <li>
+        <a href="{{ source.url }}" rel="noopener noreferrer">{{ source.title }}</a>
+        {% if source.publisher %}<span>{{ source.publisher }}</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+
+  {% if related %}
+  <section>
+    <h2>Related explanations</h2>
+    <div class="card-grid">
+      {% for episode in related %}
+        {% include "partials_episode_card.html" %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</article>
+{% endblock %}

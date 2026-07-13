@@ -1,0 +1,22 @@
+{
+  "site_name": "Hardwired Stickman",
+  "tagline": "Why humans and animals behave the way they do.",
+  "description": "Research-backed explainers about human behaviour, animal behaviour, social instincts and the hidden systems shaping everyday life.",
+  "site_url": "https://hardwired-stickman.pages.dev",
+  "youtube_url": "https://www.youtube.com/@HardwiredStickman",
+  "instagram_url": "https://www.instagram.com/hardwiredstickman/",
+  "pinterest_url": "https://www.pinterest.com/hardwiredstickman/",
+  "author_name": "Hardwired Stickman",
+  "language": "en-AU",
+  "timezone": "Australia/Sydney",
+  "default_board": "Human Behaviour Explained",
+  "brand": {
+    "background": "#121212",
+    "surface": "#1C1C1E",
+    "paper": "#F4EAD5",
+    "accent": "#F4B942",
+    "accent_2": "#C98A2C",
+    "text": "#F8FAFC",
+    "muted": "#A7B0C0"
+  }
+}

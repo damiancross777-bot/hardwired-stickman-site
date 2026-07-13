@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} | {{ site.site_name }}{% endblock %}
+{% block description %}{{ intro }}{% endblock %}
+{% block canonical %}{{ absolute_url(site.site_url, (title | slug) ~ "/") }}{% endblock %}
+{% block content %}
+<header class="page-header">
+  <p class="eyebrow">HARDWIRED STICKMAN</p>
+  <h1>{{ title }}</h1>
+  <p>{{ intro }}</p>
+</header>
+<section class="section">
+  <div class="card-grid">
+    {% for episode in episodes %}
+      {% include "partials_episode_card.html" %}
+    {% else %}
+      <div class="empty-state">
+        <h2>This section is ready.</h2>
+        <p>Publish the first episode in this category and it will appear here automatically.</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

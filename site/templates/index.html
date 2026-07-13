@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}{{ site.site_name }} — {{ site.tagline }}{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">BEHAVIOUR, EXPLAINED</p>
+    <h1>Why do we act like this?</h1>
+    <p>{{ site.description }}</p>
+    <div class="button-row">
+      <a class="button primary" href="/episodes/">Explore episodes</a>
+      <a class="button secondary" href="{{ site.youtube_url }}">Watch on YouTube</a>
+    </div>
+  </div>
+  <div class="hero-art" aria-hidden="true">
+    <img src="/static/img/hero-stickman.svg" alt="">
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">LATEST</p>
+      <h2>New explanations</h2>
+    </div>
+    <a href="/episodes/">View all episodes →</a>
+  </div>
+  <div class="card-grid">
+    {% for episode in episodes %}
+      {% include "partials_episode_card.html" %}
+    {% else %}
+      <p>No episodes are published yet.</p>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="two-lanes">
+  <a class="lane" href="/human-behaviour/">
+    <span>01</span>
+    <h2>Human Behaviour</h2>
+    <p>Social instincts, status, imitation, decision-making and the hidden systems behind everyday choices.</p>
+  </a>
+  <a class="lane" href="/animal-behaviour/">
+    <span>02</span>
+    <h2>Animal Behaviour</h2>
+    <p>Survival strategies, communication, cooperation and the evolutionary logic behind animal actions.</p>
+  </a>
+</section>
+{% endblock %}

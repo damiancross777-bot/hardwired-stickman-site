@@ -1,0 +1,15 @@
+{
+  "kit_name": "Hardwired Stickman Starter Kit",
+  "created_at": "2026-07-13T03:57:49.961392+00:00",
+  "included": [
+    "Static website generator",
+    "Pinterest image generator",
+    "Instagram carousel generator",
+    "Pinterest CSV export",
+    "PowerShell setup and publish scripts",
+    "Sample episode",
+    "Cloudflare Pages configuration",
+    "GitHub Actions validation workflow"
+  ],
+  "tested": true
+}

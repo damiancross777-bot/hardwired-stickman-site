@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Hardwired Stickman logo</title>
+  <rect width="120" height="120" rx="28" fill="#F4B942"/>
+  <circle cx="60" cy="37" r="18" fill="none" stroke="#0B1020" stroke-width="7"/>
+  <path d="M60 55v30M60 65L35 79M60 65l25 14M60 85L42 108M60 85l18 23" fill="none" stroke="#0B1020" stroke-width="7" stroke-linecap="round"/>
+  <path d="M49 37h22" stroke="#E4572E" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="49" cy="37" r="4" fill="#E4572E"/>
+  <circle cx="60" cy="37" r="4" fill="#E4572E"/>
+  <circle cx="71" cy="37" r="4" fill="#E4572E"/>
+</svg>

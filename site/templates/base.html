@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ site.site_name }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ site.description }}{% endblock %}">
+  <meta name="theme-color" content="{{ site.brand.background }}">
+  <link rel="canonical" href="{% block canonical %}{{ site.site_url }}{% endblock %}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.site_name }} RSS" href="/rss.xml">
+  <link rel="stylesheet" href="/static/css/styles.css">
+  <script defer src="/static/js/main.js"></script>
+  {% block social_meta %}{% endblock %}
+  {% block structured_data %}
+  <script type="application/ld+json">
+  {{ {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": site.site_name,
+    "url": site.site_url,
+    "description": site.description
+  } | tojson }}
+  </script>
+  <script type="application/ld+json">
+  {{ {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": site.site_name,
+    "url": site.site_url,
+    "logo": absolute_url(site.site_url, "static/img/logo.svg"),
+    "sameAs": [site.youtube_url, site.instagram_url, site.pinterest_url]
+  } | tojson }}
+  </script>
+  {% endblock %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="/">
+      <img src="/static/img/logo.svg" alt="" width="48" height="48">
+      <span>
+        <strong>{{ site.site_name }}</strong>
+        <small>{{ site.tagline }}</small>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <nav id="primary-nav" class="primary-nav" aria-label="Primary">
+      <a href="/episodes/">Episodes</a>
+      <a href="/human-behaviour/">Human Behaviour</a>
+      <a href="/animal-behaviour/">Animal Behaviour</a>
+      <a href="/about/">About</a>
+    </nav>
+  </header>
+
+  <main id="main">{% block content %}{% endblock %}</main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>{{ site.site_name }}</strong>
+      <p>{{ site.tagline }}</p>
+    </div>
+    <nav aria-label="Footer">
+      <a href="/privacy/">Contact &amp; Privacy</a>
+      <a href="/rss.xml">RSS</a>
+      <a href="{{ site.youtube_url }}">YouTube</a>
+      <a href="{{ site.instagram_url }}">Instagram</a>
+      <a href="{{ site.pinterest_url }}">Pinterest</a>
+    </nav>
+  </footer>
+</body>
+</html>

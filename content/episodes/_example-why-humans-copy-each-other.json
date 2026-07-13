@@ -1,0 +1,104 @@
+{
+  "title": "Why Humans Copy Each Other Without Realising",
+  "slug": "why-humans-copy-each-other",
+  "_note": "EXAMPLE ONLY, not a real Hardwired_Stickman episode -- kept as a schema reference for hand-authored fields (article_markdown, pinterest, instagram, reel). status is 'draft' so validate/build/social scripts skip it by default.",
+  "status": "draft",
+  "published_at": "2026-07-13T10:00:00+10:00",
+  "updated_at": "2026-07-13T10:00:00+10:00",
+  "category": "Human Behaviour",
+  "summary": "Humans unconsciously mirror the gestures, expressions and choices of people around them. The behaviour can strengthen social connection, signal belonging and reduce uncertainty.",
+  "answer": "We copy other people because imitation is a fast social-learning system. It helps us fit in, identify useful behaviour and coordinate with a group before we have consciously analysed what is happening.",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "PT8M30S",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "Behavioural mirroring can make social interaction feel smoother and more trustworthy.",
+    "People often imitate individuals who appear successful, confident or high status.",
+    "Copying can happen before a person consciously recognises the behaviour they are repeating."
+  ],
+  "article_markdown": "## The behaviour hiding in plain sight\n\nWatch two people who are getting along. One leans forward, and the other soon follows. One crosses a leg, touches their face or lowers their voice, and the movement quietly spreads.\n\nThis is not always deliberate. Human beings constantly absorb social information and adjust their behaviour to match the people around them.\n\n## Why imitation is useful\n\nImitation allows us to learn without solving every problem from first principles. It can reveal what is safe, what is accepted and what appears to work.\n\nThe same system can also reinforce group habits. That is useful when the group is right, but dangerous when confidence is mistaken for accuracy.\n\n## What to notice\n\nThe next time you enter a meeting, queue or social gathering, notice which person other people begin to mirror. That may reveal who the group is treating as a behavioural reference point.",
+  "sources": [
+    {
+      "title": "The chameleon effect: The perception\u2013behavior link and social interaction",
+      "publisher": "Journal of Personality and Social Psychology",
+      "url": "https://doi.org/10.1037/0022-3514.76.6.893"
+    },
+    {
+      "title": "Social learning and conformity",
+      "publisher": "Add a verified source before publishing",
+      "url": "https://example.com/replace-this-source"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Humans Copy Each Other Without Realising | Hardwired Stickman",
+    "description": "Why do humans unconsciously copy gestures, expressions and choices? A research-backed explanation of mirroring, conformity and social learning.",
+    "keywords": [
+      "human behaviour",
+      "social mirroring",
+      "chameleon effect",
+      "why people copy each other",
+      "social learning"
+    ]
+  },
+  "pinterest": {
+    "board": "Human Behaviour Explained",
+    "hooks": [
+      "Why Do Humans Copy Each Other?",
+      "Your Brain Is Mirroring People Around You",
+      "The Behaviour You Never Notice Yourself Doing"
+    ],
+    "description": "Why do people copy gestures and choices without noticing? This illustrated explainer looks at social mirroring, conformity and the learning systems behind imitation."
+  },
+  "instagram": {
+    "caption": "You may be copying the people around you without knowing it. Mirroring can build trust, signal belonging and help us learn quickly\u2014but it can also make bad ideas spread. The full explanation is on Hardwired Stickman.",
+    "hashtags": [
+      "humanbehaviour",
+      "psychologyexplained",
+      "socialpsychology",
+      "behaviouralscience",
+      "hardwiredstickman"
+    ],
+    "slides": [
+      {
+        "heading": "WHY DO HUMANS COPY EACH OTHER?",
+        "body": "A surprising amount of imitation happens before conscious thought."
+      },
+      {
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "We copy because we want to fit in. That is true\u2014but it is only part of the story."
+      },
+      {
+        "heading": "A FAST LEARNING SYSTEM",
+        "body": "Imitation lets us borrow behaviour instead of solving every situation from scratch."
+      },
+      {
+        "heading": "MIRRORING BUILDS RAPPORT",
+        "body": "Matching posture, rhythm and expression can make an interaction feel smoother."
+      },
+      {
+        "heading": "STATUS CHANGES THE SIGNAL",
+        "body": "People are more likely to copy someone who appears confident, successful or influential."
+      },
+      {
+        "heading": "THE DOWNSIDE",
+        "body": "The same system that spreads useful behaviour can also spread confident mistakes."
+      },
+      {
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman \u2014 why humans and animals behave the way they do."
+      }
+    ]
+  },
+  "reel": {
+    "hook": "You are probably copying someone right now\u2014and you may not know it.",
+    "beats": [
+      "Show two stick figures gradually matching posture.",
+      "Explain that mirroring can happen automatically.",
+      "Reveal that status and confidence influence who gets copied.",
+      "Close with the danger: confidence can spread mistakes."
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  }
+}

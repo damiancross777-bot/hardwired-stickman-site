@@ -1,0 +1,160 @@
+{
+  "title": "Why Do Babies Smile Before They Can See Your Face?",
+  "slug": "why-do-babies-smile",
+  "status": "published",
+  "published_at": "2026-07-13T09:00:00+10:00",
+  "updated_at": "2026-07-13T09:00:00+10:00",
+  "category": "Human Behaviour",
+  "summary": "A look at infant smiling development through the research of Peter Wolff, Robert Emde, Konrad Koenig, Robert Harmon, and John Bowlby's attachment theory. Newborns build spontaneous, sound-triggered, and social smiles on three separate timelines.",
+  "answer": "Newborn smiling runs on three separate systems that switch on in sequence, not one smile gradually improving. An internal, triggerless smile appears from birth during REM sleep, a sound-triggered smile follows at two to four weeks, and the true face-directed social smile arrives at five to nine weeks -- while vision is still close to the clinical threshold for legal blindness. The smile was built to pull a caregiver's attention in long before a baby is capable of consciously recognising a face.",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "youtube_id": "VIDEO_ID",
+  "duration_iso": "PT16M40S",
+  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "key_findings": [
+    "The first smile -- the endogenous smile -- appears from birth during REM sleep with no external trigger at all.",
+    "A second, sound-triggered smile shows up at two to four weeks, responding to a voice alone before the eyes are ready to focus on a face.",
+    "The true social smile arrives at five to nine weeks, while vision is still around 20/150-20/200 -- close to legally blind by adult standards.",
+    "Psychologist John Bowlby framed the social smile as a 'social releaser', built to pull in caregiver attention before an infant is capable of conscious recognition."
+  ],
+  "article_markdown": "## A newborn's world is a blur\n\nAt birth, visual acuity sits somewhere around 20/400 to 20/600 -- close to the threshold doctors use for legal blindness in adults. The fovea, the part of the retina responsible for sharp central vision, is still immature. The visual cortex is still under construction. A newborn's eyes are collecting light; the brain isn't ready to turn all of it into a picture yet.\n\nAnd yet within about six weeks, that same baby will lock eyes with one specific person and smile at them, on purpose.\n\n## Three systems, three schedules\n\nIn 1963, psychologist Peter Wolff ran one of the first detailed observational studies tracking exactly when and how infant smiling develops. What he found wasn't a single smile gradually improving -- it was three separate systems, arriving on three separate schedules.\n\nThe first shows up on day one, sometimes even before birth: the endogenous smile, which happens almost entirely during REM sleep with no external trigger at all. Researchers Robert Emde and Konrad Koenig later confirmed it's a spontaneous internal event, not a response to anything in the outside world.\n\nThe second appears around two to four weeks old, triggered not by a face but by a sound -- specifically, the human voice. Hearing develops faster than vision both before and after birth, so a sound-triggered smile arriving before a sight-triggered one tracks with how the rest of the nervous system comes online.\n\nThe third, pinned down by researchers Robert Harmon and Robert Emde, is the real one: the social smile, arriving around five to nine weeks. This is the smile that requires actual eye contact -- the baby has to be looking at a face, holding that gaze, responding specifically to it.\n\n## Why evolution didn't wait for the eyes\n\nHere's the detail that makes this genuinely strange: at six to eight weeks, when the social smile arrives, visual acuity has only improved to around 20/150 to 20/200. By adult standards, that baby is still legally blind. It's smiling directly at a specific face anyway.\n\nPsychologist John Bowlby's 1969 work on attachment offers the reason. Bowlby described behaviors like smiling, crying and clinging as social releasers -- signals built by evolution specifically to trigger a caregiver's attention and investment, automatically, before an infant is capable of anything resembling conscious recognition. The smile doesn't require the baby to know who is looking back, or that its survival depends on that person. It just has to pull attention in.\n\nLater researchers pushed back on part of Bowlby's framing -- his original description of these behaviors as fixed and rigid didn't hold up. A baby's smile actually varies constantly in intensity, trigger and duration depending on state and situation; it's a flexible tendency, not a single hardwired switch. But the core idea survived the correction: the smile exists to pull a caregiver in, long before the baby can do anything else to earn that attention.\n\n## What to notice\n\nIf a newborn's gaze seems to drift or cross in the first few weeks, that's not a sign of anything going wrong -- the visual system for focusing at close range genuinely isn't finished yet. The connection isn't failing to happen. It's running on a system that has nothing to do with what you're watching for, and the eye contact arrives on its own schedule regardless.",
+  "sources": [
+    {
+      "title": "Norcia, A.M. & Tyler, C.W. (1985). Spatial frequency sweep VEP: visual acuity during the first year of life. Vision Research, 25(10), 1399-1408.",
+      "publisher": "Newborn visual acuity ~20/400-20/600",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4090273/"
+    },
+    {
+      "title": "American Academy of Ophthalmology. Vision Development: Newborn to 12 Months.",
+      "publisher": "Vision is least-developed sense at birth; immature fovea and visual cortex",
+      "url": "https://www.aao.org/eye-health/tips-prevention/baby-vision-development-first-year"
+    },
+    {
+      "title": "Wolff, P.H. (1963). Observations on the early development of smiling. In B.M. Foss (Ed.), Determinants of Infant Behaviour, Vol. 2, pp. 113-138. Methuen.",
+      "publisher": "Three-system smile timeline (endogenous, auditory, social)",
+      "url": "https://www.researchgate.net/publication/22948641_The_ontogenesis_of_smiling_and_laughter_A_perspective_on_the_organization_of_development_in_infancy"
+    },
+    {
+      "title": "Emde, R.N. & Koenig, K.L. (1969). Neonatal smiling and rapid eye movement states. Journal of the American Academy of Child Psychiatry, 8(1), 57-67.",
+      "publisher": "Endogenous/REM smiling present from birth, no external trigger",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4306576/"
+    },
+    {
+      "title": "Wolff, P.H. (1963). Observations on the early development of smiling. In B.M. Foss (Ed.), Determinants of Infant Behaviour, Vol. 2, pp. 113-138. Methuen.",
+      "publisher": "Auditory-triggered smile at 2-4 weeks",
+      "url": "https://www.researchgate.net/publication/22948641_The_ontogenesis_of_smiling_and_laughter_A_perspective_on_the_organization_of_development_in_infancy"
+    },
+    {
+      "title": "Emde, R.N. & Harmon, R.J. (1972). Endogenous and exogenous smiling systems in early infancy. Journal of the American Academy of Child Psychiatry, 11(2), 177-200.",
+      "publisher": "Social smile (visually directed) emerges 5-9 weeks",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4337500/"
+    },
+    {
+      "title": "Norcia, A.M. & Tyler, C.W. (1985). Spatial frequency sweep VEP: visual acuity during the first year of life. Vision Research, 25(10), 1399-1408.",
+      "publisher": "Visual acuity at ~2 months still ~20/150-20/200",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4090273/"
+    },
+    {
+      "title": "Bowlby, J. (1969). Attachment and Loss, Vol. 1: Attachment. Hogarth Press / Basic Books.",
+      "publisher": "Smiling as social releaser / attachment behavior",
+      "url": "https://archive.org/details/attachment01bowl"
+    },
+    {
+      "title": "Messinger, D. & Fogel, A. (2007). The interactive development of social smiling. Advances in Child Development and Behavior, 35, 327-366.",
+      "publisher": "Corroborating review -- three-system smile timeline replicated by later researchers",
+      "url": "https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/Messinger.Fogel.Smiling.Advances2007.pdf"
+    },
+    {
+      "title": "Emde, R.N., Gaensbauer, T.J. & Harmon, R.J. (1976). Emotional Expression in Infancy: A Biobehavioral Study. Psychological Issues, Monograph 37. International Universities Press. [Corrected 11 Jul 2026: sources.md listed this as 1978; the actual publication year is 1976.]",
+      "publisher": "Corroborating monograph -- endogenous smiling and REM sleep states",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/959439/"
+    }
+  ],
+  "related_slugs": [],
+  "seo": {
+    "title": "Why Do Babies Smile Before They Can See Your Face? | Hardwired Stickman",
+    "description": "A look at infant smiling development through the research of Peter Wolff, Robert Emde, Konrad Koenig, Robert Harmon, and John Bowlby's attachment theory. Newborns build spontaneous, sound-triggered, and social smiles on three separate timelines.",
+    "keywords": [
+      "psychology",
+      "developmental psychology",
+      "infant development",
+      "newborn vision",
+      "social smile",
+      "Peter Wolff",
+      "John Bowlby",
+      "attachment theory",
+      "Robert Emde",
+      "endogenous smile",
+      "why babies smile",
+      "child development",
+      "evolutionary psychology",
+      "human behavior",
+      "science"
+    ]
+  },
+  "pinterest": {
+    "board": "Human Behaviour Explained",
+    "hooks": [
+      "Why Do Babies Smile Before They Can See Your Face?",
+      "A Newborn's Vision Is Close To Legally Blind",
+      "The Smile That Arrives Before Sight Does"
+    ],
+    "description": "A newborn's vision sits close to the clinical threshold for legal blindness -- so how is it already smiling straight at your face within weeks? An illustrated, research-backed explainer on the three separate smile systems behind infant development."
+  },
+  "instagram": {
+    "caption": "A newborn's vision is close to legally blind at birth -- and it's already smiling right at your face within weeks. Three separate systems, three separate schedules, and none of them wait for the eyes to finish. The full explanation is on Hardwired Stickman.",
+    "hashtags": [
+      "psychology",
+      "babies",
+      "childdevelopment",
+      "attachment",
+      "humanbehavior",
+      "science"
+    ],
+    "slides": [
+      {
+        "heading": "WHY DO BABIES SMILE BEFORE THEY CAN SEE YOUR FACE?",
+        "body": "A newborn's vision is close to the clinical threshold for legal blindness."
+      },
+      {
+        "heading": "THE OBVIOUS EXPLANATION",
+        "body": "It looks like one smile slowly getting better. It isn't."
+      },
+      {
+        "heading": "THREE SEPARATE SYSTEMS",
+        "body": "An internal, triggerless smile appears from birth during REM sleep -- no face, no sound needed."
+      },
+      {
+        "heading": "THEN A SOUND-TRIGGERED SMILE",
+        "body": "By two to four weeks, infants smile at the sound of a voice alone, eyes closed."
+      },
+      {
+        "heading": "THE REAL SOCIAL SMILE ARRIVES AT 5-9 WEEKS",
+        "body": "Vision has only improved to about 20/150-20/200 -- still legally blind by adult standards."
+      },
+      {
+        "heading": "BUILT TO ARRIVE BEFORE RECOGNITION",
+        "body": "Psychologist John Bowlby: the smile is a social releaser, pulling in a caregiver before conscious recognition is even possible."
+      },
+      {
+        "heading": "WATCH THE FULL EXPLANATION",
+        "body": "Hardwired Stickman -- why humans and animals behave the way they do."
+      }
+    ]
+  },
+  "reel": {
+    "hook": "A newborn is close to legally blind -- and it's already smiling right at your face.",
+    "beats": [
+      "Show the stickman baby's blurred point of view versus a clear one.",
+      "Reveal the endogenous smile appears from birth with no trigger at all.",
+      "Explain the sound-triggered smile arrives next, weeks before the eyes are ready.",
+      "Close on the real social smile arriving before vision ever catches up."
+    ],
+    "cta": "Watch the full Hardwired Stickman episode."
+  },
+  "_source": {
+    "episode_dir": "001-why-do-babies-smile",
+    "generated_by": "offplatform/scripts/import_episode.py",
+    "note": "Auto-filled from the production pipeline: title, category, summary/seo.description, sources, seo.keywords, instagram.hashtags, key_findings (shortlist, needs a trim pass). Every field still containing 'TODO -- fill in before publish' needs manual or Claude-assisted drafting."
+  }
+}

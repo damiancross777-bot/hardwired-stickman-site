@@ -1,0 +1,14 @@
+<article class="episode-card">
+  <a class="card-link" href="/episodes/{{ episode.slug }}/">
+    <div class="card-art">
+      <img src="/static/img/card-stickman.svg" alt="">
+      <span>{{ episode.category }}</span>
+    </div>
+    <div class="card-body">
+      <time datetime="{{ episode.published_at }}">{{ episode.published_at | date }}</time>
+      <h3>{{ episode.title }}</h3>
+      <p>{{ episode.summary }}</p>
+      <strong>Read the explanation →</strong>
+    </div>
+  </a>
+</article>
