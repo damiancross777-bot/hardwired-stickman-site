@@ -7,9 +7,10 @@ tags/hashtags, sources, candidate key findings).
 
 Fields the production pipeline has no equivalent for -- article_markdown (a fresh
 long-form written article, not the spoken script verbatim), Pinterest hooks/board
-description, Instagram carousel slides/caption, and the Reel brief -- are left as
-"TODO" placeholders. This script never invents that content; it only imports what
-already exists and cleared the CLAUDE.md Sec 5 sourcing gate.
+description, Instagram carousel slides/caption, X/Twitter post+thread copy, and
+the Reel brief -- are left as "TODO" placeholders. This script never invents that
+content; it only imports what already exists and cleared the CLAUDE.md Sec 5
+sourcing gate.
 
 Usage:
     python scripts/import_episode.py 001
@@ -218,6 +219,11 @@ def main() -> None:
             "hashtags": hashtags or [TODO],
             "slides": [{"heading": TODO, "body": TODO} for _ in range(7)],
         },
+        "twitter": {
+            "post": f"{TODO} -- <=280 chars, hook + one-line teaser, link goes at the end once episode page is live",
+            "thread": [TODO, TODO, TODO],
+            "hashtags": hashtags[:3] if hashtags else [TODO],
+        },
         "reel": {
             "hook": TODO,
             "beats": [TODO, TODO, TODO, TODO],
@@ -243,8 +249,8 @@ def main() -> None:
     print(f"Auto-filled: title, category, {len(sources)} source(s), {len(tags)} SEO keyword(s), "
           f"{len(hashtags)} hashtag(s), {len(key_findings)} candidate key finding(s).")
     print(f"Remaining manual fields ({todo_count} TODO marker(s)): article_markdown, pinterest hooks/description, "
-          f"instagram slides/caption, reel, youtube_url/id/thumbnail (once video is live), duration_iso, "
-          f"published_at/updated_at, answer.")
+          f"instagram slides/caption, twitter post/thread, reel, youtube_url/id/thumbnail (once video is live), "
+          f"duration_iso, published_at/updated_at, answer.")
 
 
 if __name__ == "__main__":

@@ -152,6 +152,15 @@
     ],
     "cta": "Watch the full Hardwired Stickman episode."
   },
+  "twitter": {
+    "post": "A newborn's vision is close to legally blind at birth. It's already smiling right at your face within weeks anyway -- here's why evolution didn't wait for the eyes to catch up:",
+    "thread": [
+      "Newborn smiling runs on three separate systems that switch on weeks apart -- not one smile gradually improving.",
+      "An internal, triggerless smile appears from birth during REM sleep. A sound-triggered smile follows at 2-4 weeks. The real social smile -- the one aimed at your face -- doesn't arrive until 5-9 weeks.",
+      "Psychologist John Bowlby called it a \"social releaser\": built to pull in caregiver attention before a baby can do anything else to earn it."
+    ],
+    "hashtags": ["psychology", "childdevelopment", "science"]
+  },
   "_source": {
     "episode_dir": "001-why-do-babies-smile",
     "generated_by": "offplatform/scripts/import_episode.py",
