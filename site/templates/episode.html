@@ -82,7 +82,7 @@
     <ol>
       {% for source in episode.sources %}
       <li>
-        <a href="{{ source.url }}" rel="noopener noreferrer">{{ source.title }}</a>
+        <a href="{{ source.url }}" target="_blank" rel="noopener noreferrer">{{ source.title }}</a>
         {% if source.publisher %}<span>{{ source.publisher }}</span>{% endif %}
       </li>
       {% endfor %}
