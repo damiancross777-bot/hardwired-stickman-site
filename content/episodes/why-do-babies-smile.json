@@ -2,15 +2,15 @@
   "title": "Why Do Babies Smile Before They Can See Your Face?",
   "slug": "why-do-babies-smile",
   "status": "published",
-  "published_at": "2026-07-13T09:00:00+10:00",
-  "updated_at": "2026-07-13T09:00:00+10:00",
+  "published_at": "2026-07-14T02:00:00+10:00",
+  "updated_at": "2026-07-13T16:43:55.417637+00:00",
   "category": "Human Behaviour",
   "summary": "A look at infant smiling development through the research of Peter Wolff, Robert Emde, Konrad Koenig, Robert Harmon, and John Bowlby's attachment theory. Newborns build spontaneous, sound-triggered, and social smiles on three separate timelines.",
   "answer": "Newborn smiling runs on three separate systems that switch on in sequence, not one smile gradually improving. An internal, triggerless smile appears from birth during REM sleep, a sound-triggered smile follows at two to four weeks, and the true face-directed social smile arrives at five to nine weeks -- while vision is still close to the clinical threshold for legal blindness. The smile was built to pull a caregiver's attention in long before a baby is capable of consciously recognising a face.",
-  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
-  "youtube_id": "VIDEO_ID",
+  "youtube_url": "https://www.youtube.com/watch?v=v8w5QKBBAwY",
+  "youtube_id": "v8w5QKBBAwY",
   "duration_iso": "PT16M40S",
-  "thumbnail_url": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "thumbnail_url": "https://img.youtube.com/vi/v8w5QKBBAwY/maxresdefault.jpg",
   "key_findings": [
     "The first smile -- the endogenous smile -- appears from birth during REM sleep with no external trigger at all.",
     "A second, sound-triggered smile shows up at two to four weeks, responding to a voice alone before the eyes are ready to focus on a face.",
@@ -159,7 +159,11 @@
       "An internal, triggerless smile appears from birth during REM sleep. A sound-triggered smile follows at 2-4 weeks. The real social smile -- the one aimed at your face -- doesn't arrive until 5-9 weeks.",
       "Psychologist John Bowlby called it a \"social releaser\": built to pull in caregiver attention before a baby can do anything else to earn it."
     ],
-    "hashtags": ["psychology", "childdevelopment", "science"]
+    "hashtags": [
+      "psychology",
+      "childdevelopment",
+      "science"
+    ]
   },
   "_source": {
     "episode_dir": "001-why-do-babies-smile",
