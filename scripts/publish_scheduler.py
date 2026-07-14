@@ -107,7 +107,12 @@ def apply_episode_update(slug: str, youtube_url: str, scheduled_at: str) -> bool
     return True
 
 
-def rebuild_and_push(python_exe: Path, changed_slugs: list[str]) -> None:
+def rebuild_and_push(python_exe: Path, changed_slugs: list[str]) -> bool:
+    """Returns True only if the site was successfully rebuilt AND (nothing needed
+    committing OR the commit+push both succeeded). Callers must not mark an
+    episode as processed unless this returns True -- otherwise a transient
+    failure here would silently and permanently strand that episode, since
+    the JSON patch itself already happened and looks "done" locally."""
     for step in ("validate_content.py", "make_social.py", "build_site.py"):
         result = run([str(python_exe), f"scripts\\{step}"], cwd=ROOT)
         log(f"{step}: exit={result.returncode}")
@@ -116,19 +121,28 @@ def rebuild_and_push(python_exe: Path, changed_slugs: list[str]) -> None:
         if result.returncode != 0:
             log(f"{step} stderr: {result.stderr.strip()[-800:]}")
             log("ABORTING push -- build step failed, site left unrebuilt/unpushed for manual review.")
-            return
+            return False
 
     run(["git", "add", "-A"], cwd=ROOT)
     status = run(["git", "status", "--porcelain"], cwd=ROOT)
     if not status.stdout.strip():
         log("git: nothing to commit.")
-        return
+        return True
 
     msg = "Publish scheduler: go-live for " + ", ".join(changed_slugs)
     commit = run(["git", "commit", "-m", msg], cwd=ROOT)
     log(f"git commit: exit={commit.returncode} {commit.stdout.strip()}")
+    if commit.returncode != 0:
+        log(f"git commit stderr: {commit.stderr.strip()[-800:]}")
+        log("ABORTING -- commit failed, will retry on next check (episode not marked processed).")
+        return False
+
     push = run(["git", "push"], cwd=ROOT)
     log(f"git push: exit={push.returncode} {push.stdout.strip()} {push.stderr.strip()}")
+    if push.returncode != 0:
+        log("ABORTING -- push failed, will retry on next check (episode not marked processed).")
+        return False
+    return True
 
 
 def main() -> None:
@@ -179,17 +193,20 @@ def main() -> None:
                 continue
 
             if apply_episode_update(slug, youtube_url, scheduled_at_raw):
-                entry["processed"] = True
-                entry["fired_at"] = now.isoformat()
-                state[slug] = entry
-                save_state(state)
                 changed_slugs.append(slug)
 
     if changed_slugs and args.dry_run:
         log(f"DRY RUN: would rebuild + push for: {', '.join(changed_slugs)} -- skipped.")
     elif changed_slugs:
         python_exe = ROOT / ".venv" / "Scripts" / "python.exe"
-        rebuild_and_push(python_exe, changed_slugs)
+        if rebuild_and_push(python_exe, changed_slugs):
+            for slug in changed_slugs:
+                state[slug]["processed"] = True
+                state[slug]["fired_at"] = now.isoformat()
+            save_state(state)
+        else:
+            log(f"NOT marking {', '.join(changed_slugs)} as processed -- will retry next check "
+                f"(JSON patch already applied and is idempotent, safe to reapply).")
     else:
         log("No episodes due -- no changes.")
 
