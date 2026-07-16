@@ -18,14 +18,14 @@ TOKENS_PATH = ROOT / "state" / "pinterest_tokens.json"
 
 API_BASE = "https://api.pinterest.com/v5"
 TEST_BOARD_NAME = "Human Behaviour Explained"
-TEST_IMAGE_URL = "https://hardwired-stickman.pages.dev/social/why-do-babies-smile/pinterest/pin-01.jpg"
+TEST_IMAGE_URL = "https://hardwiredstickman.com/social/why-do-babies-smile/pinterest/pin-01.jpg"
 TEST_PIN_TITLE = "Why Do Babies Smile Before They Can See Your Face?"
 TEST_PIN_DESCRIPTION = (
     "A newborn's vision is close to the clinical threshold for legal blindness -- "
     "so how is it already smiling straight at your face within weeks? "
     "[TEST PIN -- Trial access, visible only to this account]"
 )
-TEST_PIN_LINK = "https://hardwired-stickman.pages.dev/episodes/why-do-babies-smile/"
+TEST_PIN_LINK = "https://hardwiredstickman.com/episodes/why-do-babies-smile/"
 
 
 def load_tokens() -> dict:

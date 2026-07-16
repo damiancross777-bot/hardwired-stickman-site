@@ -52,13 +52,15 @@ content/site.json
 
 Replace the sample site URL and social URLs before launch. Brand colors here are already set to match `CLAUDE.md` §13.4's locked deep-charcoal/amber-gold palette — don't drift from those without updating both files together.
 
-The current starter URL is:
+The site is live at the custom domain (added 16 Jul 2026):
 
 ```text
-https://hardwired-stickman.pages.dev
+https://hardwiredstickman.com
 ```
 
-Your Cloudflare Pages project name must be available for that exact address to work.
+Previously served from the Cloudflare Pages default subdomain
+(`hardwired-stickman.pages.dev`), which still works as a fallback unless/
+until removed as a custom domain in the Cloudflare Pages project settings.
 
 ## 4. Import an episode from the production pipeline (recommended)
 
