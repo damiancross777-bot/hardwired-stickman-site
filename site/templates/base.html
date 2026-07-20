@@ -28,7 +28,7 @@
     "name": site.site_name,
     "url": site.site_url,
     "logo": absolute_url(site.site_url, "static/img/logo.svg"),
-    "sameAs": [site.youtube_url, site.instagram_url, site.pinterest_url, site.twitter_url]
+    "sameAs": [site.youtube_url, site.instagram_url, site.pinterest_url, site.twitter_url, site.threads_url]
   } | tojson }}
   </script>
   {% endblock %}
@@ -66,6 +66,7 @@
       <a href="{{ site.instagram_url }}" target="_blank" rel="noopener noreferrer">Instagram</a>
       <a href="{{ site.pinterest_url }}" target="_blank" rel="noopener noreferrer">Pinterest</a>
       <a href="{{ site.twitter_url }}" target="_blank" rel="noopener noreferrer">X</a>
+      <a href="{{ site.threads_url }}" target="_blank" rel="noopener noreferrer">Threads</a>
     </nav>
   </footer>
 </body>
